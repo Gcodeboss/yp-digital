@@ -1,0 +1,115 @@
+# Yanchan clip pipeline — Python dependencies
+# ---------------------------------------------------------------------------
+# Install with:   ./install.sh          (from the repo root — does this for you)
+# Or by hand:     tools/clip-pipeline/.venv/bin/pip install -r requirements.txt
+#
+# HOW THIS LIST WAS BUILT
+# Derived from `pip freeze` of the venv that actually renders clips today, then
+# pruned to the packages the pipeline genuinely imports. `mediapipe` and its tail
+# (matplotlib, sounddevice, absl-py, protobuf-for-mediapipe) and the redundant
+# `opencv-contrib-python` were in that freeze and are NOT imported anywhere in
+# tools/clip-pipeline/*.py — they are gone. Verified: `grep -rn "^\s*(import|from)"`
+# over every .py in this directory.
+#
+# EVERYTHING IS PINNED (==) ON PURPOSE
+# This is a delivered appliance, not a library. calibrate.py measures pane
+# rectangles in source pixels and compose.py burns captions at fixed coordinates;
+# a surprise minor-version bump in OpenCV or numpy shifts real output. Pinned
+# means the producer's Mac renders the same frames this machine does.
+#
+# PYTHON VERSION
+# Built and verified on Python 3.9.6 — the /usr/bin/python3 that ships with macOS
+# Command Line Tools, so it needs no Homebrew. These pins also resolve on 3.10,
+# 3.11 and 3.12. They do NOT resolve on 3.13+: numpy 2.0.2, scipy 1.13.1 and
+# llvmlite 0.43.0 publish no 3.13 wheels and would try (and fail) to compile from
+# source. install.sh enforces the 3.9–3.12 window.
+#
+# DOWNLOAD SIZE — READ THIS BEFORE STARTING THE INSTALL
+# About 250–300 MB of wheels, unpacking to roughly 960 MB on disk. On a normal
+# home connection budget 5–15 minutes. Measured wheel sizes, largest first:
+#   torch            71 MB download / 339 MB installed   <- the big one
+#   opencv-python    45 MB / 132 MB
+#   scipy            29 MB /  92 MB
+#   llvmlite         28 MB /  88 MB
+#   av               21 MB /  55 MB
+#   imageio-ffmpeg   21 MB /  48 MB   (a whole ffmpeg binary lives in here)
+#   onnxruntime      16 MB /  60 MB
+# Whisper's speech model is a SEPARATE ~480 MB download that happens on the first
+# transcription run, not here. See the note at the bottom.
+# ---------------------------------------------------------------------------
+
+
+# --- Audio analysis -------------------------------------------------------
+# Reads the extracted 16 kHz WAV and decides what is music, what is singing and
+# where the beat is. This is what makes clip selection something other than a
+# random cut. numpy is the array type every stage passes around.
+#   numpy   : analyze.py, calibrate.py, detect_music.py, layout.py, qa_report.py,
+#             transcribe.py, waveform.py
+#   scipy   : detect_music.py (stft, median_filter), analyze.py + waveform.py
+#             (scipy.io.wavfile)
+numpy==2.0.2
+scipy==1.13.1
+
+# --- Transcription --------------------------------------------------------
+# Captions, and the transcript the selector reads to find a quotable moment.
+# Two engines on purpose: transcribe.py runs OpenAI Whisper over the whole
+# stream (accurate, slow, 30–60 min); transcribe_windows.py runs faster-whisper
+# over just the candidate windows when you only need the clip text.
+# torch is Whisper's engine. It is listed explicitly rather than left implicit
+# because it is 339 MB and nobody should be surprised by that.
+torch==2.8.0
+openai-whisper==20250625
+faster-whisper==1.2.1
+tqdm==4.68.3               # transcribe.py progress bar
+
+# --- Video and frames -----------------------------------------------------
+# imageio-ffmpeg is the important one: it VENDORS a full ffmpeg binary inside the
+# package, and compose.py / extract_audio.py / ingest.py / preview.py /
+# make_proxy.py / posters.py / qa_report.py all call
+# `imageio_ffmpeg.get_ffmpeg_exe()`. That is why this project needs no Homebrew
+# ffmpeg — do not "fix" a missing system ffmpeg, there isn't meant to be one.
+#   opencv-python : layout.py only, and only core APIs (VideoCapture, cvtColor).
+#                   opencv-contrib-python is NOT needed; no contrib module is used.
+#   pillow        : compose.py, measuring the watermark PNG before overlaying it.
+imageio-ffmpeg==0.6.0
+opencv-python==4.13.0.92
+pillow==11.3.0
+
+# --- Downloading from Kick ------------------------------------------------
+# fetch_vod.py shells out to the `yt-dlp` executable. It looks on PATH first and
+# then in this venv's bin/, so pip-installing it here is enough — no Homebrew,
+# no separate download. Kick changes its player often; this is the package most
+# likely to need bumping, and it is safe to bump alone.
+yt-dlp==2025.10.14
+
+# kick_api.py's second rung. Kick's API answers 403 to a request with no browser
+# User-Agent and 200 to one with it, so rung 1 needs nothing but the standard
+# library -- but a User-Agent string is the weakest check there is, and the day
+# Kick starts fingerprinting TLS instead, an unattended 04:00 job needs a rung
+# that is already installed. curl_cffi reproduces a real Chrome's TLS handshake.
+# Imported lazily, so a broken install costs that one rung and not the scan.
+curl_cffi==0.13.0
+
+# --- Pinned transitives ---------------------------------------------------
+# Nothing below is imported by our code. They are pinned anyway because they are
+# compiled wheels whose availability is tied to the Python version, and letting
+# them float is exactly how a working install turns into a build-from-source
+# failure on someone else's Mac six months from now.
+numba==0.60.0              # Whisper's DTW word-timing kernel
+llvmlite==0.43.0           # numba's backend; 0.43 is the last with 3.9 wheels
+tiktoken==0.13.0           # Whisper's tokenizer (floats to 0.14 if unpinned)
+av==15.1.0                 # faster-whisper's demuxer
+ctranslate2==4.8.0         # faster-whisper's inference runtime
+onnxruntime==1.19.2        # faster-whisper's voice-activity detector
+
+# ---------------------------------------------------------------------------
+# NOT INSTALLED BY PIP — two things this file cannot give you:
+#
+# 1. The Whisper speech model. Downloaded automatically to ~/.cache/whisper the
+#    first time you transcribe. Default is "small" (~480 MB); override with the
+#    WHISPER_MODEL environment variable. doctor.py reports whether it is cached.
+#
+# 2. The caption font. compose.py burns captions with "Arial Black" out of
+#    /System/Library/Fonts/Supplemental, which is standard on macOS. It is a
+#    macOS-only assumption and doctor.py checks for it.
+# ---------------------------------------------------------------------------

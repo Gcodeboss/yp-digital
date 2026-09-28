@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+  Daily Kick capture.
+
+  A LaunchAgent and not a cron line, for two reasons that both bite on a laptop:
+  macOS cron needs Full Disk Access granted to /usr/sbin/cron, and cron does not
+  fire while the machine is asleep. A 04:00 cron job on a laptop that closes at
+  night may simply never run. StartCalendarInterval fires on wake instead.
+
+  __REPO__ is replaced with the repository's absolute path at install time.
+  install.sh does this; `capture.sh` with the install flag prints how to do it by
+  hand. A shipped file must not name a machine, which is why this is a template.
+
+  (No double-hyphens in this comment on purpose: XML forbids them inside a
+  comment. plutil accepts them anyway, so the file linted clean while any strict
+  XML parser rejected it outright.)
+-->
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.yanchan.capture</string>
+
+    <key>ProgramArguments</key>
+    <array>
+        <string>/bin/bash</string>
+        <string>__REPO__/tools/clip-pipeline/capture.sh</string>
+    </array>
+
+    <key>WorkingDirectory</key>
+    <string>__REPO__/tools/clip-pipeline</string>
+
+    <key>StartCalendarInterval</key>
+    <dict>
+        <key>Hour</key>
+        <integer>4</integer>
+        <key>Minute</key>
+        <integer>0</integer>
+    </dict>
+
+    <!-- Not at load: installing the agent should not start a download. -->
+    <key>RunAtLoad</key>
+    <false/>
+
+    <!-- One capture at a time. A run that overlaps the previous one would put
+         two yt-dlp processes on the same file. -->
+    <key>AbandonProcessGroup</key>
+    <false/>
+
+    <key>StandardOutPath</key>
+    <string>__REPO__/tools/clip-pipeline/work/capture.log</string>
+    <key>StandardErrorPath</key>
+    <string>__REPO__/tools/clip-pipeline/work/capture.log</string>
+
+    <!-- launchd starts a job with almost no environment. The pipeline finds its
+         own venv by path, but yt-dlp and ffmpeg lookups still expect a PATH. -->
+    <key>EnvironmentVariables</key>
+    <dict>
+        <key>PATH</key>
+        <string>/usr/local/bin:/opt/homebrew/bin:/usr/bin:/bin:/usr/sbin:/sbin</string>
+    </dict>
+
+    <key>ProcessType</key>
+    <string>Background</string>
+</dict>
+</plist>
