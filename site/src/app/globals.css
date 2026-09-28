@@ -1,0 +1,408 @@
+@import "tailwindcss";
+
+/* ============================================================
+   YANCHAN PRODUCED — Brand Design System (from DESIGN.md)
+   Dark-first · warm amber · percussive motion
+   ============================================================ */
+
+@theme {
+  /* Color tokens */
+  --color-void: #000000;
+  --color-charcoal: #1a1a1a;
+  --color-coal: #0c0c0c;
+  --color-amber: #f58804;
+  --color-rust: #7e2b0c;
+  --color-sienna: #bc4803;
+  --color-gold: #ffde00;
+  --color-cream: #f4e3c6;
+  --color-offwhite: #faf8f5;
+  --color-warmgray: #8a8a8a;
+
+  /* Console semantic tokens. Declared here so Tailwind generates the
+     utilities (bg-ground, border-line, text-ink-dim, …); the per-theme
+     values are set in the html[data-theme] blocks below. Defaults are
+     the legacy values, so a console-authored component still renders
+     correctly when no theme is selected. */
+  --color-ground: #000000;
+  --color-panel: #0c0c0c;
+  --color-raised: #1a1a1a;
+  --color-line: rgba(255, 255, 255, 0.1);
+  --color-line-strong: rgba(255, 255, 255, 0.25);
+  --color-ink: #f4e3c6;
+  --color-ink-dim: #8a8a8a;
+  --color-ink-faint: #5a5a5a;
+  --color-mint: #7fd4c1;
+  /* Genuine payment/validation errors only. Deliberately outside the
+     amber/rust/sienna warm-orange family, which already carries
+     pre-order and informational-notice meaning — an error must not be
+     visually confusable with a routine notice. #f87171 clears AA text
+     contrast on the storefront's near-black ground. */
+  --color-danger: #f87171;
+
+  /* Fonts (wired in layout via next/font variables) */
+  --font-display: var(--font-display), "Archivo Black", Georgia, serif;
+  --font-head: var(--font-head), system-ui, sans-serif;
+  --font-body: var(--font-body), system-ui, -apple-system, sans-serif;
+  --font-mono: var(--font-mono), "Courier New", monospace;
+  --font-editorial: var(--font-editorial), Georgia, "Times New Roman", serif;
+  --font-ui: var(--font-ui), system-ui, -apple-system, sans-serif;
+
+  /* Easing — DESIGN.md §9 */
+  --ease-strike: cubic-bezier(0.16, 1, 0.3, 1);
+  --ease-decay: cubic-bezier(0.4, 0, 0.2, 1);
+  --ease-rolloff: cubic-bezier(0.7, 0, 0.84, 0);
+}
+
+:root {
+  --background: #000000;
+  --foreground: #f4e3c6;
+}
+
+/* ============================================================
+   THEMES — see site/DESIGN-CONSOLE.md
+   ------------------------------------------------------------
+   Selected by `data-theme` on <html>. Two rules make this work
+   with almost no component churn:
+
+   1. Tailwind v4 compiles `bg-amber` to var(--color-amber), so
+      redefining the token here re-skins every component that
+      resolves through one. No className edits required.
+
+   2. `--color-white` is ALSO a Tailwind token. The dashboard
+      carries ~154 `border-white/15` / `bg-white/5` hairlines and
+      lifts that would otherwise ignore the swap. Re-pointing
+      white at warm cream re-tints all of them at once, which is
+      exactly the warm hairline the console theme calls for.
+
+   NO data-theme attribute == today's values, untouched. The
+   public marketing site never opts in, so it cannot regress.
+   The selector is attribute-only, so the attribute can sit on
+   <html> or on the dashboard's own wrapper. These blocks follow
+   :root in source order, so at equal specificity they win.
+   ============================================================ */
+
+/* --- LEGACY — the original dash, preserved verbatim ---------- */
+[data-theme="legacy"] {
+  --color-white: #ffffff;
+  --color-black: #000000;
+
+  /* Console-only tokens still resolve, mapped onto legacy values,
+     so a component written for console never renders unstyled. */
+  --color-ground: #000000;
+  --color-panel: #0c0c0c;
+  --color-raised: #1a1a1a;
+  --color-line: rgba(255, 255, 255, 0.1);
+  --color-line-strong: rgba(255, 255, 255, 0.25);
+  --color-ink: #f4e3c6;
+  --color-ink-dim: #8a8a8a;
+  --color-ink-faint: #5a5a5a;
+  --color-mint: #7fd4c1;
+
+  --background: #000000;
+  --foreground: #f4e3c6;
+}
+
+/* --- CONSOLE — the dark default ------------------------------ */
+[data-theme="console"] {
+  /* Ground is cooler and darker than legacy #0c0c0c: it makes the
+     same amber read warmer, and lets three panel values separate
+     without any of them going grey. */
+  --color-ground: #08070a;
+  --color-panel: #0e0d11;
+  --color-raised: #16141a;
+  --color-line: rgba(244, 227, 198, 0.08);
+  --color-line-strong: rgba(244, 227, 198, 0.16);
+
+  --color-ink: #f4e3c6;
+  --color-ink-dim: #8a8a8a;
+  --color-ink-faint: #4e4a52;
+
+  /* System-OK only — dots and 1px rules, never a fill. The single
+     cool tone, so "content" and "machine" never wear one colour. */
+  --color-mint: #7fd4c1;
+
+  /* Warm-tinted white: turns every inherited white/N hairline and
+     surface lift into a warm one. See note 2 above. */
+  --color-white: #f4e3c6;
+  --color-black: #08070a;
+
+  /* Existing brand tokens, retuned to sit on the new ground. Amber,
+     gold and sienna are brand constants and do not move. */
+  --color-void: #08070a;
+  --color-coal: #0e0d11;
+  --color-charcoal: #16141a;
+  --color-warmgray: #8a8a8a;
+
+  --background: #08070a;
+  --foreground: #f4e3c6;
+}
+
+/* --- LIGHT — same system, inverted ground -------------------
+   Not an inversion of the palette: amber and gold are brand
+   constants tuned for a near-black ground and neither survives
+   the move. Measured against #FAF8F5, brand amber lands at
+   2.36:1 and brand gold at 1.26:1 — both unreadable as text, and
+   amber is used as text 126 times. So the accents are re-cut to
+   the darkest value that still reads as the same hue, each
+   clearing AA both as text on the ground and beneath light text
+   when used as a fill (amber 5.7:1 / 6.1:1, gold 6.3 / 6.7,
+   sienna 7.5 / 7.9, mint 6.1 / 6.5).
+
+   `--color-white` inverts to near-black, which is what turns the
+   inherited white/N hairlines and surface lifts into dark ones
+   instead of leaving them invisible on paper. `--color-void` and
+   `--color-cream` swap roles for the same reason: both are used
+   as text as often as they are used as ground. */
+[data-theme="light"] {
+  --color-ground: #faf8f5;
+  --color-panel: #ffffff;
+  --color-raised: #f1ece4;
+  --color-line: rgba(22, 19, 15, 0.12);
+  --color-line-strong: rgba(22, 19, 15, 0.22);
+
+  --color-ink: #16130f;
+  --color-ink-dim: #5f5952;
+  --color-ink-faint: #8e877e;
+
+  --color-amber: #9a4e05;
+  --color-gold: #6e5a00;
+  --color-sienna: #8f3402;
+  --color-rust: #8f3402;
+  --color-mint: #0f6b54;
+  --color-danger: #b91c1c;
+
+  /* The inversion levers. */
+  --color-white: #16130f;
+  --color-black: #faf8f5;
+
+  /* Brand tokens re-pointed: these carry text as often as fill. */
+  --color-void: #faf8f5;
+  --color-coal: #ffffff;
+  --color-charcoal: #f1ece4;
+  --color-cream: #16130f;
+  --color-offwhite: #16130f;
+  --color-warmgray: #5f5952;
+
+  --background: #faf8f5;
+  --foreground: #16130f;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  -webkit-tap-highlight-color: transparent;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-body), system-ui, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  overflow-x: hidden;
+}
+
+::selection {
+  background: var(--color-amber);
+  color: var(--color-black, #000);
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 10px;
+}
+::-webkit-scrollbar-track {
+  background: var(--background);
+}
+::-webkit-scrollbar-thumb {
+  background: var(--color-raised);
+  border-radius: 0;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--color-amber);
+}
+
+/* Grain overlay — DESIGN.md §9
+   A viewport-fixed layer has to be repainted on every scroll frame, which is
+   the single most expensive thing on a phone. Restrict it to precise pointers
+   (desktop), where it costs nothing and the texture actually reads. */
+@media (pointer: fine) {
+  .grain::before {
+    content: "";
+    position: fixed;
+    inset: 0;
+    z-index: 1;
+    pointer-events: none;
+    opacity: 0.04;
+    will-change: transform;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='200' height='200'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='3'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+  }
+}
+
+/* Let the browser skip layout/paint for sections that are far offscreen.
+   contain-intrinsic-size keeps the scrollbar stable while they're skipped. */
+@media (max-width: 1023px) {
+  .defer-paint {
+    content-visibility: auto;
+    contain-intrinsic-size: auto 900px;
+  }
+}
+
+/* Display utility */
+.font-display {
+  font-family: var(--font-display), Georgia, serif;
+  letter-spacing: -0.03em;
+  line-height: 0.9;
+}
+.font-head {
+  font-family: var(--font-head), system-ui, sans-serif;
+}
+
+/* Kinetic marquee */
+@keyframes marquee {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-50%);
+  }
+}
+.animate-marquee {
+  animation: marquee var(--marquee-dur, 30s) linear infinite;
+}
+
+/* Vinyl spin — featured release */
+@keyframes vinyl-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+.animate-vinyl {
+  animation: vinyl-spin 8s linear infinite;
+}
+
+/* Equalizer bars — now-playing indicator */
+@keyframes eq-bounce {
+  0%,
+  100% {
+    transform: scaleY(0.25);
+  }
+  50% {
+    transform: scaleY(1);
+  }
+}
+.eq-bar {
+  transform-origin: bottom;
+  animation: eq-bounce 0.9s var(--ease-decay) infinite;
+}
+
+/* Amber glow text on media */
+.text-shadow-media {
+  text-shadow: 0 2px 30px rgba(0, 0, 0, 0.6);
+}
+
+/* Reveal default (pre-JS / reduced motion fallback shows content) */
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  .animate-marquee {
+    animation: none;
+  }
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.001ms !important;
+    transition-duration: 0.001ms !important;
+  }
+}
+
+/* ============================================================
+   CONSOLE — structural layer (DESIGN-CONSOLE.md rules 1-6)
+   ------------------------------------------------------------
+   The token swap alone only re-tints; it cannot restructure, and
+   restructuring is what separates a tool from a generated
+   dashboard. These rules do it at the theme layer instead of in
+   ~15 component files, because those files are under active
+   edit — and because a theme that only changes hue is not a
+   theme worth switching to.
+
+   Scoped to every theme except `legacy`, which therefore still
+   renders exactly as it always did.
+   ============================================================ */
+
+/* Rule 1 — kill the floating card. Pill and full-round shapes are
+   left alone so toggles and status chips keep their form. */
+[data-theme]:not([data-theme="legacy"]) .rounded,
+[data-theme]:not([data-theme="legacy"]) .rounded-md,
+[data-theme]:not([data-theme="legacy"]) .rounded-lg,
+[data-theme]:not([data-theme="legacy"]) .rounded-xl,
+[data-theme]:not([data-theme="legacy"]) .rounded-2xl,
+[data-theme]:not([data-theme="legacy"]) .rounded-3xl {
+  border-radius: 2px;
+}
+
+/* Type — the interface stops speaking in a neutral grotesque.
+   Scoped to the themed root, so the marketing site keeps Inter and
+   only the tool changes voice.
+
+   `font-family` is declared here, not just the token. `body` sets
+   its font from --font-body and sits ABOVE this node, so its value
+   is already computed to Inter by the time the cascade reaches us;
+   descendants inherit that computed font, not the variable. Only
+   re-declaring font-family on the themed root actually changes what
+   the subtree inherits. The token is kept in step for anything that
+   reads it directly. */
+[data-theme]:not([data-theme="legacy"]) {
+  --font-body: var(--font-ui), system-ui, -apple-system, sans-serif;
+  font-family: var(--font-ui), system-ui, -apple-system, sans-serif;
+}
+
+/* Human-written copy — hooks, captions, quotes, pull text. Never
+   chrome. A serif on furniture is decoration; on a sentence someone
+   actually wrote, it is the difference between a record and a voice. */
+.font-editorial {
+  font-family: var(--font-editorial), Georgia, "Times New Roman", serif;
+  letter-spacing: 0.005em;
+  line-height: 1.35;
+}
+
+/* Rule 3 — every number is tabular, so columns align and figures
+   stop shifting width as they update. */
+[data-theme]:not([data-theme="legacy"]) .font-mono {
+  font-variant-numeric: tabular-nums;
+  letter-spacing: -0.01em;
+}
+
+/* Rule 6 — the one display gesture per screen gets real presence
+   instead of sitting at heading size. */
+[data-theme]:not([data-theme="legacy"]) .font-display {
+  letter-spacing: -0.02em;
+  line-height: 0.86;
+}
+
+/* Rule 4 — micro-labels recede so values dominate.
+
+   Tracking ONLY. This rule used to also set `color`, which was a bug: at
+   (0,2,0) it outranked a plain `.text-amber` (0,1,0), so every element that
+   combined wide tracking with a colour utility — an active nav item, a status
+   value — was silently greyed out under console and could not be overridden
+   from the component. A theme may set the default colour of a token; it must
+   not out-specify a component that has deliberately chosen one. */
+[data-theme]:not([data-theme="legacy"]) .tracking-\[0\.16em\],
+[data-theme]:not([data-theme="legacy"]) .tracking-\[0\.18em\] {
+  letter-spacing: 0.14em;
+}
+
+/* No shadows in a console. Depth is value, not blur. */
+[data-theme]:not([data-theme="legacy"]) [class*="shadow-"] {
+  box-shadow: none;
+}

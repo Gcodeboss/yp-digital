@@ -114,16 +114,10 @@ Thumbs.db
 .vscode/
 
 
-# --- site/ is its own repository -------------------------------------------
-# `site/` was already a git repo before this one existed, with its own history
-# and its own remote (github.com/Gcodeboss/YP2026, branch `main`). It is ignored
-# here rather than absorbed, because absorbing it would mean deleting that
-# history, and rather than tracked, because tracking a nested repo without a
-# .gitmodules records a bare gitlink that nobody can clone.
-#
-# So: the dashboard is versioned in site/, the pipeline and the specs are
-# versioned here. `package.sh` copies from both and does not care.
-/site/
+# --- site/ — the dashboard is a normal directory in this repo ---------------
+# It carries its own ignore rules via the entries above (node_modules, .next,
+# .vercel). In the upstream working repo site/ was a nested git repository;
+# here it is plain source and must be tracked.
 
 
 # --- Design and business material, not the program -------------------------
@@ -167,7 +161,3 @@ Thumbs.db
 #   streams/archive.json                   the stream archive (see above)
 !/tools/clip-pipeline/requirements.txt
 !/tools/clip-pipeline/assets/
-# site/public is the dashboard's and the public site's own imagery. The /*.png
-# style rules above are anchored to the repo root and do not reach it, but say so
-# out loud: without these files the pages 404 their images.
-!/site/public/

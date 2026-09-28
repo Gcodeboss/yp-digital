@@ -1,0 +1,206 @@
+/* ============================================================
+   YANCHAN PRODUCED — Legacy Page Styles
+   Replicates the original yanchanproduced.com WordPress/Elementor
+   single-page experience.
+   ============================================================ */
+
+@import "tailwindcss";
+
+@font-face {
+  font-family: "Cehua Free";
+  src: url("/legacy/fonts/CehuaFree.otf") format("opentype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Liberation Sans";
+  src: url("/legacy/fonts/LiberationSans-Regular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Liberation Sans";
+  src: url("/legacy/fonts/LiberationSans-Bold.ttf") format("truetype");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@theme {
+  --color-legacy-bg: rgb(19, 27, 14);
+  --color-legacy-accent: rgb(255, 145, 77);
+  --color-legacy-text: #ffffff;
+  --font-legacy-head: var(--font-poppins), "Poppins", sans-serif;
+  --font-legacy-body:
+    "Liberation Sans", var(--font-poppins), "Poppins", sans-serif;
+  --font-legacy-mono: var(--font-cousine), "Cousine", monospace;
+  --font-legacy-display:
+    "Cehua Free", var(--font-poppins), "Poppins", sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.legacy-body {
+  margin: 0;
+  padding: 0;
+  background-color: var(--color-legacy-bg);
+  color: var(--color-legacy-text);
+  font-family: var(--font-legacy-body);
+  font-size: 16px;
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  overflow-x: hidden;
+}
+
+.legacy-body * {
+  box-sizing: border-box;
+}
+
+.legacy-body img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+.legacy-body a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.legacy-section {
+  position: relative;
+  width: 100%;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.legacy-container {
+  width: 100%;
+  max-width: 1420px;
+  margin: 0 auto;
+  padding: 0 24px;
+}
+
+@media (min-width: 768px) {
+  .legacy-container {
+    padding: 0 48px;
+  }
+}
+
+@media (min-width: 1024px) {
+  .legacy-container {
+    padding: 0 64px;
+  }
+}
+
+.legacy-heading {
+  font-family: var(--font-legacy-head);
+  font-weight: 600;
+  line-height: 1.1;
+  text-transform: uppercase;
+  letter-spacing: -0.02em;
+  margin: 0;
+}
+
+.legacy-heading-xl {
+  font-size: clamp(2.5rem, 6vw, 5.5rem);
+}
+
+.legacy-heading-lg {
+  font-size: clamp(2rem, 4vw, 3.5rem);
+}
+
+.legacy-heading-md {
+  font-size: clamp(1.25rem, 2vw, 1.75rem);
+}
+
+.legacy-heading-sm {
+  font-size: clamp(0.75rem, 1vw, 0.875rem);
+  letter-spacing: 0.15em;
+}
+
+.legacy-text-center {
+  text-align: center;
+}
+
+.legacy-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  padding: 14px 32px;
+  font-family: var(--font-legacy-mono);
+  font-size: 0.75rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  border: 1px solid var(--color-legacy-text);
+  background: transparent;
+  color: var(--color-legacy-text);
+  cursor: pointer;
+  transition: all 0.25s ease;
+}
+
+.legacy-btn:hover {
+  background: var(--color-legacy-text);
+  color: var(--color-legacy-bg);
+}
+
+.legacy-btn-primary {
+  background: var(--color-legacy-text);
+  color: var(--color-legacy-bg);
+}
+
+.legacy-btn-primary:hover {
+  background: var(--color-legacy-accent);
+  border-color: var(--color-legacy-accent);
+  color: var(--color-legacy-bg);
+}
+
+.legacy-social-icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.1);
+  color: var(--color-legacy-text);
+  transition:
+    transform 0.25s ease,
+    background 0.25s ease;
+}
+
+.legacy-social-icon:hover {
+  transform: translateY(-4px);
+  background: var(--color-legacy-accent);
+}
+
+.legacy-video-embed {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  overflow: hidden;
+}
+
+.legacy-video-embed iframe {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+
+@media (max-width: 767px) {
+  .legacy-body {
+    font-size: 15px;
+  }
+}
