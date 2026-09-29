@@ -1,0 +1,22 @@
+{
+  "source": "/Users/gbase/work/personal/yanchan/streams/2026-08-31_live-session-w-s-a-m-justice-case_777d5fdf.mp4",
+  "frame": {
+    "width": 1280,
+    "height": 720
+  },
+  "mode": "fullcam",
+  "reason": "no webcam inset edge found in any sampled group, so there is no picture-in-picture layout in this stream",
+  "webcam_layouts": [],
+  "webcam_default": null,
+  "arrangement_left": null,
+  "daw_top": null,
+  "daw_bottom": null,
+  "samples": {
+    "daw_frames": 20,
+    "fullcam_frames": 40,
+    "accepted": 0,
+    "rejected": {
+      "no-edge": 15
+    }
+  }
+}

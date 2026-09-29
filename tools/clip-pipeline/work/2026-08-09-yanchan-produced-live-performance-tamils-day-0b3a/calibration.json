@@ -1,0 +1,20 @@
+{
+  "source": "/Users/gbase/work/personal/yanchan/streams/2026-08-09_yanchan-produced-live-performance-tamils-day_0b3a4800.mp4",
+  "frame": {
+    "width": 1280,
+    "height": 720
+  },
+  "mode": "fullcam",
+  "reason": "only 0 of 60 sampled frames show a DAW at all",
+  "webcam_layouts": [],
+  "webcam_default": null,
+  "arrangement_left": null,
+  "daw_top": null,
+  "daw_bottom": null,
+  "samples": {
+    "daw_frames": 0,
+    "fullcam_frames": 60,
+    "accepted": 0,
+    "rejected": {}
+  }
+}

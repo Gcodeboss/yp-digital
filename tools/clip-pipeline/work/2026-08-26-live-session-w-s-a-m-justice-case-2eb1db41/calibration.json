@@ -1,0 +1,34 @@
+{
+  "source": "/Users/gbase/work/personal/yanchan/streams/2026-08-26_live-session-w-s-a-m-justice-case_2eb1db41.mp4",
+  "frame": {
+    "width": 1280,
+    "height": 720
+  },
+  "webcam_layouts": [
+    {
+      "x": 766,
+      "h": 373,
+      "y": 0,
+      "w": 514,
+      "count": 33
+    }
+  ],
+  "webcam_default": {
+    "x": 766,
+    "y": 0,
+    "w": 514,
+    "h": 373
+  },
+  "arrangement_left": 385,
+  "daw_top": 43,
+  "daw_bottom": 529,
+  "samples": {
+    "daw_frames": 40,
+    "fullcam_frames": 20,
+    "accepted": 33,
+    "rejected": {
+      "no-edge": 1,
+      "aspect": 1
+    }
+  }
+}

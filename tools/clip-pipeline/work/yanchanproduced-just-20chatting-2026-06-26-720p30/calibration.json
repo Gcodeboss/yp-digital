@@ -1,0 +1,38 @@
+{
+  "source": "/Users/gbase/yanchan/YanchanProduced_Just%20Chatting_2026-06-26_720p30.mp4",
+  "frame": {
+    "width": 1280,
+    "height": 720
+  },
+  "webcam_layouts": [
+    {
+      "x": 778,
+      "h": 301,
+      "y": 0,
+      "w": 502,
+      "count": 23
+    },
+    {
+      "x": 709,
+      "h": 347,
+      "y": 0,
+      "w": 571,
+      "count": 18
+    }
+  ],
+  "webcam_default": {
+    "x": 778,
+    "y": 0,
+    "w": 502,
+    "h": 301
+  },
+  "arrangement_left": 388,
+  "daw_top": 43,
+  "daw_bottom": 529,
+  "samples": {
+    "daw_frames": 46,
+    "fullcam_frames": 14,
+    "accepted": 41,
+    "rejected": {}
+  }
+}

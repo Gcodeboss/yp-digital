@@ -1,0 +1,38 @@
+{
+  "source": "/Users/gbase/work/personal/yanchan/streams/2026-07-29_live-session-w-muthoni.mp4",
+  "frame": {
+    "width": 1280,
+    "height": 720
+  },
+  "webcam_layouts": [
+    {
+      "x": 644,
+      "h": 366,
+      "y": 0,
+      "w": 636,
+      "count": 44
+    },
+    {
+      "x": 765,
+      "h": 336,
+      "y": 0,
+      "w": 515,
+      "count": 8
+    }
+  ],
+  "webcam_default": {
+    "x": 644,
+    "y": 0,
+    "w": 636,
+    "h": 366
+  },
+  "arrangement_left": 385,
+  "daw_top": 43,
+  "daw_bottom": 529,
+  "samples": {
+    "daw_frames": 57,
+    "fullcam_frames": 3,
+    "accepted": 52,
+    "rejected": {}
+  }
+}

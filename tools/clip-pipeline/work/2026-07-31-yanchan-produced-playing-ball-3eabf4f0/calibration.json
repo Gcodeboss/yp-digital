@@ -1,0 +1,21 @@
+{
+  "source": "/Users/gbase/work/personal/yanchan/streams/2026-07-31_yanchan-produced-playing-ball_3eabf4f0.mp4",
+  "frame": {
+    "width": 1280,
+    "height": 720
+  },
+  "webcam_layouts": [],
+  "webcam_default": null,
+  "arrangement_left": 0,
+  "daw_top": 0,
+  "daw_bottom": 0,
+  "samples": {
+    "daw_frames": 0,
+    "fullcam_frames": 60,
+    "accepted": 0,
+    "rejected": {
+      "talk-only": 60
+    }
+  },
+  "note": "hand-written minimal calibration: camera-only stream, no DAW scenes. split path unreachable."
+}

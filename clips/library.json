@@ -1,0 +1,3440 @@
+{
+  "version": 2,
+  "clips": {
+    "clips/2026-06-26/004514_beat.mp4": {
+      "name": "004514_beat",
+      "path": "clips/2026-06-26/004514_beat.mp4",
+      "mode": "split",
+      "start": 2714,
+      "end": 2744,
+      "context_tag": "beat",
+      "score": 8.66,
+      "duration": 30,
+      "excerpt": "It's like the 4th or 5th line of this, it's like eyes so green and her skin so brown is what it should say but it gets cut off by the next bar I think. Bag with a brand new...",
+      "bpm": 123,
+      "sung_fraction": 0.242,
+      "reason": "instrumental: music score=0.87, ~123 BPM, sustained vocal 24% of segment",
+      "stream_duration": 9741.888,
+      "date": "2026-06-26",
+      "source": "YanchanProduced_Just%20Chatting_2026-06-26_720p30.mp4",
+      "copy": {
+        "hook": "The line was right. The bar was too short.",
+        "hook_alt": "Why that lyric had to change before it made the song",
+        "caption": "The line was right. The bar was too short. So it changed.\n\n→ Free Tamil-trap drum kit in bio\n\n#YanchanProduced #Songwriting #MusicProducer #InTheStudio #BehindTheBeat"
+      },
+      "status": "new",
+      "scheduled": "",
+      "creator": {},
+      "history": [],
+      "cam": [
+        777,
+        0,
+        503,
+        301
+      ],
+      "daw": [
+        388,
+        57,
+        385,
+        376
+      ],
+      "framing_origin": "measured",
+      "selector": "music"
+    },
+    "clips/2026-07-03/013617_singing.mp4": {
+      "name": "013617_singing",
+      "path": "clips/2026-07-03/013617_singing.mp4",
+      "mode": "split",
+      "start": 5777,
+      "end": 5803,
+      "context_tag": "singing",
+      "score": 7.26,
+      "duration": 26,
+      "excerpt": "She woke up in the morning, I'm sorry, you know I had to go, oh, oh You know I had to go, oh, oh You know I had to go, oh, oh You, boo-hoo, girl You know I had to...",
+      "bpm": 98.7,
+      "sung_fraction": 0.482,
+      "reason": "singing: music score=0.73, ~99 BPM, sustained vocal 48% of segment",
+      "stream_duration": 9842.1333125,
+      "date": "2026-07-03",
+      "source": "YanchanProduced_Live Session w⧸ Tresor_20260703_2bf7ec67-cb93-497d-a868-9ea5c85153b0.mp4",
+      "copy": {
+        "hook": "\"You know I had to go\" - the hook, found live",
+        "hook_alt": "Watch a chorus get written in one take",
+        "caption": "\"You know I had to go.\" The hook, found live.\n\n→ DM \"BEATS\" for the kit\n\n#YanchanProduced #Songwriting #Vocals #StudioSession #Shorts"
+      },
+      "status": "new",
+      "scheduled": "",
+      "creator": {},
+      "history": [],
+      "cam": [
+        715,
+        0,
+        565,
+        335
+      ],
+      "daw": [
+        377,
+        50,
+        334,
+        326
+      ],
+      "framing_origin": "measured",
+      "selector": "music"
+    },
+    "clips/2026-07-08/011032_beat.mp4": {
+      "name": "011032_beat",
+      "path": "clips/2026-07-08/011032_beat.mp4",
+      "mode": "split",
+      "start": 4232,
+      "end": 4262,
+      "context_tag": "beat",
+      "score": 8.79,
+      "duration": 30,
+      "excerpt": "I love all three what I would say the first two though like for me like the melodies were hitting right away okay president Jeff what are we thinking wait on the beat what are we thinking life after what...",
+      "bpm": 121,
+      "sung_fraction": 0.055,
+      "reason": "instrumental: music score=0.88, ~121 BPM, sustained vocal 5% of segment",
+      "stream_duration": 10888.4906875,
+      "date": "2026-07-08",
+      "source": "YanchanProduced_Live%20Session%20w%20Kiki%20Rowe_2026-07-08_720p30.mp4",
+      "copy": {
+        "hook": "Three takes in, and the melody already picked itself",
+        "hook_alt": "\"The melodies were hitting right away\"",
+        "caption": "Three takes in, and the melody already picked itself.\n\n→ Free Tamil-trap drum kit in bio\n\n#YanchanProduced #MusicProducer #Songwriting #InTheStudio #StudioSession"
+      },
+      "status": "new",
+      "scheduled": "",
+      "creator": {
+        "framing": {
+          "cam": [
+            868,
+            61,
+            202,
+            169
+          ],
+          "daw": [
+            267,
+            40,
+            393,
+            384
+          ]
+        },
+        "context_tag": "singing"
+      },
+      "history": [
+        {
+          "field": "framing",
+          "from": null,
+          "to": {
+            "cam": [
+              854,
+              0,
+              395,
+              245
+            ],
+            "daw": [
+              385,
+              81,
+              393,
+              384
+            ]
+          }
+        },
+        {
+          "field": "framing",
+          "from": {
+            "cam": [
+              854,
+              0,
+              395,
+              245
+            ],
+            "daw": [
+              385,
+              81,
+              393,
+              384
+            ]
+          },
+          "to": {
+            "cam": [
+              854,
+              0,
+              395,
+              245
+            ],
+            "daw": [
+              385,
+              81,
+              393,
+              384
+            ]
+          }
+        },
+        {
+          "field": "framing",
+          "from": {
+            "cam": [
+              854,
+              0,
+              395,
+              245
+            ],
+            "daw": [
+              385,
+              81,
+              393,
+              384
+            ]
+          },
+          "to": {
+            "cam": [
+              720,
+              9,
+              537,
+              308
+            ],
+            "daw": [
+              386,
+              66,
+              317,
+              411
+            ]
+          }
+        },
+        {
+          "field": "framing",
+          "from": {
+            "cam": [
+              720,
+              9,
+              537,
+              308
+            ],
+            "daw": [
+              386,
+              66,
+              317,
+              411
+            ]
+          },
+          "to": {
+            "cam": [
+              735,
+              0,
+              484,
+              336
+            ],
+            "daw": [
+              387,
+              93,
+              318,
+              415
+            ]
+          }
+        },
+        {
+          "field": "framing",
+          "from": {
+            "cam": [
+              735,
+              0,
+              484,
+              336
+            ],
+            "daw": [
+              387,
+              93,
+              318,
+              415
+            ]
+          },
+          "to": {
+            "cam": [
+              713,
+              1,
+              514,
+              335
+            ],
+            "daw": [
+              383,
+              63,
+              315,
+              395
+            ]
+          }
+        },
+        {
+          "field": "framing",
+          "from": {
+            "cam": [
+              713,
+              1,
+              514,
+              335
+            ],
+            "daw": [
+              383,
+              63,
+              315,
+              395
+            ]
+          },
+          "to": {
+            "cam": [
+              868,
+              61,
+              202,
+              169
+            ],
+            "daw": [
+              267,
+              40,
+              393,
+              384
+            ]
+          }
+        },
+        {
+          "field": "context_tag",
+          "from": null,
+          "to": "singing"
+        }
+      ],
+      "cam": [
+        817,
+        0,
+        463,
+        238
+      ],
+      "daw": [
+        420,
+        62,
+        393,
+        384
+      ],
+      "framing_origin": "measured",
+      "selector": "music"
+    },
+    "clips/2026-06-26/003056_beat.mp4": {
+      "name": "003056_beat",
+      "path": "clips/2026-06-26/003056_beat.mp4",
+      "mode": "reframe",
+      "start": 1856,
+      "end": 1886,
+      "context_tag": "beat",
+      "score": 8.84,
+      "duration": 30,
+      "excerpt": "So, when this drop comes this is where I'd watch it for the first time Oh shit, I didn't expect this Oh shit The House of Art too? Okay Let's try some too",
+      "bpm": 123,
+      "sung_fraction": 0.263,
+      "reason": "instrumental: music score=0.88, ~123 BPM, sustained vocal 26% of segment",
+      "stream_duration": 9741.888,
+      "date": "2026-06-26",
+      "source": "YanchanProduced_Just%20Chatting_2026-06-26_720p30.mp4",
+      "copy": {
+        "hook": "Watching a producer hear his own drop for the first time",
+        "hook_alt": "\"Oh shit, I didn't expect this\" - about his own beat",
+        "caption": "Watching a producer hear his own drop for the first time.\n\n→ Free Tamil-trap drum kit in bio\n\n#YanchanProduced #ProducerLife #Ableton #InTheStudio #Shorts"
+      },
+      "status": "new",
+      "scheduled": "",
+      "creator": {},
+      "history": [],
+      "cam": [
+        404,
+        364,
+        632,
+        354
+      ],
+      "daw": null,
+      "framing_origin": "measured",
+      "selector": "music"
+    },
+    "clips/2026-06-26/003533_beat.mp4": {
+      "name": "003533_beat",
+      "path": "clips/2026-06-26/003533_beat.mp4",
+      "mode": "reframe",
+      "start": 2133,
+      "end": 2163,
+      "context_tag": "beat",
+      "score": 7.64,
+      "duration": 30,
+      "excerpt": "I so big and skin so, I so big and skin so brown. Wanna twirl you, wanna spin you around. Hey, I'm so up, wanna take you down. I'm so up, wanna take you down. I'm so up, wanna take...",
+      "bpm": 123,
+      "sung_fraction": 0.26,
+      "reason": "instrumental: music score=0.76, ~123 BPM, sustained vocal 26% of segment",
+      "stream_duration": 9741.888,
+      "date": "2026-06-26",
+      "source": "YanchanProduced_Just%20Chatting_2026-06-26_720p30.mp4",
+      "copy": {
+        "hook": "Same line, four different ways, until it sits",
+        "hook_alt": "This is what finding a hook actually sounds like",
+        "caption": "Same line, four different ways, until it sits.\n\n→ DM \"BEATS\" for the kit\n\n#YanchanProduced #Songwriting #BeatMaker #InTheStudio #StudioSession"
+      },
+      "status": "new",
+      "scheduled": "",
+      "creator": {},
+      "history": [],
+      "cam": [
+        0,
+        0,
+        1280,
+        720
+      ],
+      "daw": null,
+      "framing_origin": "measured",
+      "selector": "music"
+    },
+    "clips/2026-06-26/003943_beat.mp4": {
+      "name": "003943_beat",
+      "path": "clips/2026-06-26/003943_beat.mp4",
+      "mode": "split",
+      "start": 2383,
+      "end": 2413,
+      "context_tag": "beat",
+      "score": 7.89,
+      "duration": 30,
+      "excerpt": "You've been tired of clowns. I know you got tired. You got tired of getting in clowns. Hey, hey, you got tired of a you got tired of getting in clowns. Those two, we can throw those. You got tired...",
+      "bpm": 123,
+      "sung_fraction": 0.274,
+      "reason": "instrumental: music score=0.79, ~123 BPM, sustained vocal 27% of segment",
+      "stream_duration": 9741.888,
+      "date": "2026-06-26",
+      "source": "YanchanProduced_Just%20Chatting_2026-06-26_720p30.mp4",
+      "copy": {
+        "hook": "One bar, rewritten live, until it lands",
+        "hook_alt": "This is what writing actually sounds like before the polish",
+        "caption": "One bar, rewritten live, until it lands.\n\n→ Full session live on Kick\n\n#YanchanProduced #ProducerLife #Songwriting #InTheStudio #Shorts"
+      },
+      "status": "new",
+      "scheduled": "",
+      "creator": {},
+      "history": [],
+      "cam": [
+        778,
+        0,
+        502,
+        301
+      ],
+      "daw": [
+        388,
+        43,
+        386,
+        346
+      ],
+      "framing_origin": "measured",
+      "selector": "music"
+    },
+    "clips/2026-06-26/004921_beat.mp4": {
+      "name": "004921_beat",
+      "path": "clips/2026-06-26/004921_beat.mp4",
+      "mode": "split",
+      "start": 2961,
+      "end": 2991,
+      "context_tag": "beat",
+      "score": 8.27,
+      "duration": 30,
+      "excerpt": "It's so cold, it's so cold Hard on ice, it looks so nice Hard on ice, it looks so... That'll be a good... Yeah, look at that tone",
+      "bpm": 123,
+      "sung_fraction": 0.426,
+      "reason": "instrumental: music score=0.83, ~123 BPM, sustained vocal 42% of segment",
+      "stream_duration": 9741.888,
+      "date": "2026-06-26",
+      "source": "YanchanProduced_Just%20Chatting_2026-06-26_720p30.mp4",
+      "copy": {
+        "hook": "\"Look at that tone\" - the sound of a take being kept",
+        "hook_alt": "Cold beat, colder bars, and the moment the tone clicks",
+        "caption": "\"Look at that tone.\" That's the sound of a take being kept.\n\n→ DM \"BEATS\" for the kit\n\n#YanchanProduced #Ableton #ProducerLife #StudioSession #Shorts"
+      },
+      "status": "new",
+      "scheduled": "",
+      "creator": {},
+      "history": [],
+      "cam": [
+        777,
+        0,
+        503,
+        301
+      ],
+      "daw": [
+        388,
+        43,
+        385,
+        362
+      ],
+      "framing_origin": "measured",
+      "selector": "music"
+    },
+    "clips/2026-06-26/010225_beat.mp4": {
+      "name": "010225_beat",
+      "path": "clips/2026-06-26/010225_beat.mp4",
+      "mode": "split",
+      "start": 3745,
+      "end": 3767,
+      "context_tag": "beat",
+      "score": 8.1,
+      "duration": 22,
+      "excerpt": "One of those right? Yeah, I think I do a better bar. She just want to dance. Have a good night. Have a good time I see my cup. I dream like a faucet. I want to rock. I need...",
+      "bpm": 123,
+      "sung_fraction": 0.369,
+      "reason": "instrumental: music score=0.81, ~123 BPM, sustained vocal 36% of segment",
+      "stream_duration": 9741.888,
+      "date": "2026-06-26",
+      "source": "YanchanProduced_Just%20Chatting_2026-06-26_720p30.mp4",
+      "copy": {
+        "hook": "\"I think I can do a better bar.\" So he does.",
+        "hook_alt": "The take was already fine. He ran it again anyway.",
+        "caption": "\"I think I can do a better bar.\" So he does.\n\n→ Full session live on Kick\n\n#YanchanProduced #ProducerLife #Songwriting #InTheStudio #KickStream"
+      },
+      "status": "new",
+      "scheduled": "",
+      "creator": {},
+      "history": [],
+      "cam": [
+        778,
+        0,
+        502,
+        301
+      ],
+      "daw": [
+        388,
+        43,
+        386,
+        347
+      ],
+      "framing_origin": "measured",
+      "selector": "music"
+    },
+    "clips/2026-06-26/011027_beat.mp4": {
+      "name": "011027_beat",
+      "path": "clips/2026-06-26/011027_beat.mp4",
+      "mode": "split",
+      "start": 4227,
+      "end": 4257,
+      "context_tag": "beat",
+      "score": 8.5,
+      "duration": 30,
+      "excerpt": "Let me know what you cook on this part. Come sit down. Come sit down. Do you want fire? Just cool down. Do you want fire? It's so cold. Do you want me to put the come sit down? I...",
+      "bpm": 123,
+      "sung_fraction": 0.265,
+      "reason": "instrumental: music score=0.85, ~123 BPM, sustained vocal 26% of segment",
+      "stream_duration": 9741.888,
+      "date": "2026-06-26",
+      "source": "YanchanProduced_Just%20Chatting_2026-06-26_720p30.mp4",
+      "copy": {
+        "hook": "\"Let me know what you cook on this part\"",
+        "hook_alt": "How a beat actually gets handed over mid-session",
+        "caption": "\"Let me know what you cook on this part.\" How a beat gets handed over mid-session.\n\n→ Free Tamil-trap drum kit in bio\n\n#YanchanProduced #BeatMaker #Ableton #StudioSession #Collaboration"
+      },
+      "status": "new",
+      "scheduled": "",
+      "creator": {},
+      "history": [],
+      "cam": [
+        778,
+        0,
+        502,
+        301
+      ],
+      "daw": [
+        388,
+        43,
+        386,
+        350
+      ],
+      "framing_origin": "measured",
+      "selector": "music"
+    },
+    "clips/2026-06-26/011853_beat.mp4": {
+      "name": "011853_beat",
+      "path": "clips/2026-06-26/011853_beat.mp4",
+      "mode": "split",
+      "start": 4733,
+      "end": 4763,
+      "context_tag": "beat",
+      "score": 8.43,
+      "duration": 30,
+      "excerpt": "Cause he brought his weapon, if you get to kick it That was a blessing, green like a salad She started dressing, she from the south She wanted me answer, girl you're my baby Like Johnson & Johnson, ice in...",
+      "bpm": 123,
+      "sung_fraction": 0.306,
+      "reason": "instrumental: music score=0.84, ~123 BPM, sustained vocal 30% of segment",
+      "stream_duration": 9741.888,
+      "date": "2026-06-26",
+      "source": "YanchanProduced_Just%20Chatting_2026-06-26_720p30.mp4",
+      "copy": {
+        "hook": "Bar after bar, and the beat never blinks",
+        "hook_alt": "\"Green like a salad\" - the run that finally locked in",
+        "caption": "Bar after bar, and the beat never blinks.\n\n→ DM \"BEATS\" for the kit\n\n#YanchanProduced #ProducerLife #BeatMaker #InTheStudio #Shorts"
+      },
+      "status": "new",
+      "scheduled": "",
+      "creator": {},
+      "history": [],
+      "cam": [
+        778,
+        0,
+        502,
+        301
+      ],
+      "daw": [
+        300,
+        66,
+        474,
+        463
+      ],
+      "framing_origin": "measured",
+      "selector": "music"
+    },
+    "clips/2026-06-26/020535_singing.mp4": {
+      "name": "020535_singing",
+      "path": "clips/2026-06-26/020535_singing.mp4",
+      "mode": "split",
+      "start": 7535,
+      "end": 7565,
+      "context_tag": "singing",
+      "score": 6.38,
+      "duration": 30,
+      "excerpt": "May, what time you coming over Keep that Stanley bottle in your rover Out in LA, shop that mess, fuel it over When was the last time that I hit you's Put your hand in my hand, buddy, oh my...",
+      "bpm": 96.2,
+      "sung_fraction": 0.553,
+      "reason": "singing: music score=0.64, ~96 BPM, sustained vocal 55% of segment",
+      "stream_duration": 9741.888,
+      "date": "2026-06-26",
+      "source": "YanchanProduced_Just%20Chatting_2026-06-26_720p30.mp4",
+      "copy": {
+        "hook": "\"Keep that Stanley bottle in your rover\"",
+        "hook_alt": "A melody showing up fully formed, first try",
+        "caption": "\"Keep that Stanley bottle in your rover.\" A melody showing up fully formed.\n\n→ Full session live on Kick\n\n#YanchanProduced #Vocals #Songwriting #InTheStudio #RnB"
+      },
+      "status": "new",
+      "scheduled": "",
+      "creator": {},
+      "history": [],
+      "cam": [
+        710,
+        0,
+        570,
+        347
+      ],
+      "daw": [
+        298,
+        64,
+        408,
+        421
+      ],
+      "framing_origin": "measured",
+      "selector": "music"
+    },
+    "clips/2026-06-26/022818_beat.mp4": {
+      "name": "022818_beat",
+      "path": "clips/2026-06-26/022818_beat.mp4",
+      "mode": "split",
+      "start": 8898,
+      "end": 8923,
+      "context_tag": "beat",
+      "score": 5.99,
+      "duration": 25,
+      "excerpt": "With gorillas and the vultures like we at the zoo Ay yeah I like this With gorillas and the vultures like we in the zoo I like that Don't want you Know you never know Could happen to you Know...",
+      "bpm": 73.5,
+      "sung_fraction": 0.303,
+      "reason": "instrumental: music score=0.60, ~74 BPM, sustained vocal 30% of segment",
+      "stream_duration": 9741.888,
+      "date": "2026-06-26",
+      "source": "YanchanProduced_Just%20Chatting_2026-06-26_720p30.mp4",
+      "copy": {
+        "hook": "\"Gorillas and the vultures like we at the zoo\"",
+        "hook_alt": "You can hear the exact second the producer likes the bar",
+        "caption": "\"Gorillas and the vultures like we at the zoo\" - and you can hear him like it.\n\n→ Free Tamil-trap drum kit in bio\n\n#YanchanProduced #ProducerLife #Songwriting #StudioSession #Shorts"
+      },
+      "status": "new",
+      "scheduled": "",
+      "creator": {},
+      "history": [],
+      "cam": [
+        710,
+        0,
+        570,
+        347
+      ],
+      "daw": [
+        298,
+        64,
+        408,
+        420
+      ],
+      "framing_origin": "measured",
+      "selector": "music"
+    },
+    "clips/2026-07-08/011621_beat.mp4": {
+      "name": "011621_beat",
+      "path": "clips/2026-07-08/011621_beat.mp4",
+      "mode": "split",
+      "start": 4581,
+      "end": 4602,
+      "context_tag": "beat",
+      "score": 8.4,
+      "duration": 21,
+      "excerpt": "I'll ask you one more I have the filter on too, that got on Had it at its right away No, no, no Don't Yeah Feel it All that you believe in But it is the meaning",
+      "bpm": 81.5,
+      "sung_fraction": 0.397,
+      "reason": "instrumental: music score=0.84, ~82 BPM, sustained vocal 39% of segment",
+      "stream_duration": 10888.4906875,
+      "date": "2026-07-08",
+      "source": "YanchanProduced_Live%20Session%20w%20Kiki%20Rowe_2026-07-08_720p30.mp4",
+      "copy": {
+        "hook": "One filter move and the vocal finds its space",
+        "hook_alt": "The small mix decision you can hear instantly",
+        "caption": "One filter move and the vocal finds its space.\n\n→ DM \"BEATS\" for the kit\n\n#YanchanProduced #Ableton #MixEngineer #ProducerLife #InTheStudio"
+      },
+      "status": "new",
+      "scheduled": "",
+      "creator": {},
+      "history": [],
+      "cam": [
+        641,
+        0,
+        639,
+        367
+      ],
+      "daw": [
+        330,
+        46,
+        307,
+        390
+      ],
+      "framing_origin": "measured",
+      "selector": "music"
+    },
+    "clips/2026-07-08/012215_singing.mp4": {
+      "name": "012215_singing",
+      "path": "clips/2026-07-08/012215_singing.mp4",
+      "mode": "split",
+      "start": 4935,
+      "end": 4958,
+      "context_tag": "singing",
+      "score": 8.89,
+      "duration": 23,
+      "excerpt": "That part for sure and then like with all the harmonies we can like stack under",
+      "bpm": 81.5,
+      "sung_fraction": 0.481,
+      "reason": "singing: music score=0.89, ~82 BPM, sustained vocal 48% of segment",
+      "stream_duration": 10888.4906875,
+      "date": "2026-07-08",
+      "source": "YanchanProduced_Live%20Session%20w%20Kiki%20Rowe_2026-07-08_720p30.mp4",
+      "copy": {
+        "hook": "\"With all the harmonies we can stack under that\"",
+        "hook_alt": "How one line becomes a wall of vocals",
+        "caption": "\"With all the harmonies we can stack under that.\" How one line becomes a wall of vocals.\n\n→ Full session live on Kick\n\n#YanchanProduced #Vocals #Harmonies #InTheStudio #Songwriting"
+      },
+      "status": "new",
+      "scheduled": "",
+      "creator": {
+        "framing": {
+          "cam": [
+            815,
+            0,
+            464,
+            287
+          ],
+          "daw": [
+            381,
+            68,
+            406,
+            452
+          ]
+        }
+      },
+      "history": [
+        {
+          "field": "framing",
+          "from": null,
+          "to": {
+            "cam": [
+              815,
+              0,
+              464,
+              287
+            ],
+            "daw": [
+              381,
+              68,
+              406,
+              452
+            ]
+          }
+        }
+      ],
+      "cam": [
+        785,
+        0,
+        495,
+        281
+      ],
+      "daw": [
+        380,
+        66,
+        401,
+        392
+      ],
+      "framing_origin": "measured",
+      "selector": "music"
+    },
+    "clips/2026-07-08/013025_beat.mp4": {
+      "name": "013025_beat",
+      "path": "clips/2026-07-08/013025_beat.mp4",
+      "mode": "split",
+      "start": 5425,
+      "end": 5455,
+      "context_tag": "beat",
+      "score": 8.01,
+      "duration": 30,
+      "excerpt": "I get only lies and you can't believe it All that you believe in But it is to me Buried in a feeling I get only lies and you can't believe it All that you believe in But it is...",
+      "bpm": 81.5,
+      "sung_fraction": 0.413,
+      "reason": "instrumental: music score=0.80, ~82 BPM, sustained vocal 41% of segment",
+      "stream_duration": 10888.4906875,
+      "date": "2026-07-08",
+      "source": "YanchanProduced_Live%20Session%20w%20Kiki%20Rowe_2026-07-08_720p30.mp4",
+      "copy": {
+        "hook": "\"Buried in a feeling\" - run back until it sits",
+        "hook_alt": "Same line, again and again, until it's the one",
+        "caption": "\"Buried in a feeling.\" Run back until it sits.\n\n→ Free Tamil-trap drum kit in bio\n\n#YanchanProduced #Vocals #Songwriting #StudioSession #Shorts"
+      },
+      "status": "new",
+      "scheduled": "",
+      "creator": {},
+      "history": [],
+      "cam": [
+        787,
+        0,
+        493,
+        281
+      ],
+      "daw": [
+        363,
+        48,
+        420,
+        410
+      ],
+      "framing_origin": "measured",
+      "selector": "music"
+    },
+    "clips/2026-07-08/013514_beat.mp4": {
+      "name": "013514_beat",
+      "path": "clips/2026-07-08/013514_beat.mp4",
+      "mode": "split",
+      "start": 5714,
+      "end": 5743,
+      "context_tag": "beat",
+      "score": 8.5,
+      "duration": 29,
+      "excerpt": "Do it again. Honestly, I talk so much shit to the artist I develop. Are you serious in a like in a good way? Yeah, like tough love. Yo, if you don't know pitch, if you don't know rhythm problem,...",
+      "bpm": 81.5,
+      "sung_fraction": 0.377,
+      "reason": "instrumental: music score=0.85, ~82 BPM, sustained vocal 37% of segment",
+      "stream_duration": 10888.4906875,
+      "date": "2026-07-08",
+      "source": "YanchanProduced_Live%20Session%20w%20Kiki%20Rowe_2026-07-08_720p30.mp4",
+      "copy": {
+        "hook": "\"I talk so much shit to the artists I develop\"",
+        "hook_alt": "Tough love in the studio, explained by the producer giving it",
+        "caption": "\"I talk so much shit to the artists I develop.\" Tough love, explained.\n\n→ DM \"BEATS\" for the kit\n\n#YanchanProduced #MusicProducer #ArtistDevelopment #ProducerLife #InTheStudio"
+      },
+      "status": "new",
+      "scheduled": "",
+      "creator": {},
+      "history": [],
+      "cam": [
+        786,
+        0,
+        494,
+        281
+      ],
+      "daw": [
+        420,
+        43,
+        362,
+        316
+      ],
+      "framing_origin": "measured",
+      "selector": "music"
+    },
+    "clips/2026-07-08/014550_beat.mp4": {
+      "name": "014550_beat",
+      "path": "clips/2026-07-08/014550_beat.mp4",
+      "mode": "split",
+      "start": 6350,
+      "end": 6380,
+      "context_tag": "beat",
+      "score": 8.24,
+      "duration": 30,
+      "excerpt": "All right, you ready to record this? Yes Tell me what you want to repeat it how you gonna tell you gonna treat it Want to know where you'll be should we change that up like want to know what...",
+      "bpm": 81.5,
+      "sung_fraction": 0.423,
+      "reason": "instrumental: music score=0.82, ~82 BPM, sustained vocal 42% of segment",
+      "stream_duration": 10888.4906875,
+      "date": "2026-07-08",
+      "source": "YanchanProduced_Live%20Session%20w%20Kiki%20Rowe_2026-07-08_720p30.mp4",
+      "copy": {
+        "hook": "\"You ready to record this?\" - then the lyric changes",
+        "hook_alt": "The last edit before the record button",
+        "caption": "\"You ready to record this?\" Then the lyric changes anyway.\n\n→ Full session live on Kick\n\n#YanchanProduced #Songwriting #InTheStudio #StudioSession #KickStream"
+      },
+      "status": "new",
+      "scheduled": "",
+      "creator": {},
+      "history": [],
+      "cam": [
+        786,
+        0,
+        494,
+        281
+      ],
+      "daw": [
+        420,
+        43,
+        362,
+        346
+      ],
+      "framing_origin": "measured",
+      "selector": "music"
+    },
+    "clips/2026-07-08/015422_singing.mp4": {
+      "name": "015422_singing",
+      "path": "clips/2026-07-08/015422_singing.mp4",
+      "mode": "split",
+      "start": 6862,
+      "end": 6882,
+      "context_tag": "singing",
+      "score": 7.82,
+      "duration": 20,
+      "excerpt": "Wanna know what you'll be really mean Actually, give me one more I'm gonna go even higher actually So the first one, try to pan the first one to the left then And this one to the left Oh yeah,...",
+      "bpm": 81.5,
+      "sung_fraction": 0.508,
+      "reason": "singing: music score=0.78, ~82 BPM, sustained vocal 50% of segment",
+      "stream_duration": 10888.4906875,
+      "date": "2026-07-08",
+      "source": "YanchanProduced_Live%20Session%20w%20Kiki%20Rowe_2026-07-08_720p30.mp4",
+      "copy": {
+        "hook": "\"Give me one more. I'm going even higher.\"",
+        "hook_alt": "Stacking and panning a vocal in real time",
+        "caption": "\"Give me one more. I'm going even higher.\"\n\n→ Free Tamil-trap drum kit in bio\n\n#YanchanProduced #Vocals #Harmonies #MixEngineer #InTheStudio"
+      },
+      "status": "new",
+      "scheduled": "",
+      "creator": {},
+      "history": [],
+      "cam": [
+        785,
+        0,
+        495,
+        281
+      ],
+      "daw": [
+        420,
+        43,
+        361,
+        325
+      ],
+      "framing_origin": "measured",
+      "selector": "music"
+    },
+    "clips/2026-07-08/015908_beat.mp4": {
+      "name": "015908_beat",
+      "path": "clips/2026-07-08/015908_beat.mp4",
+      "mode": "split",
+      "start": 7148,
+      "end": 7178,
+      "context_tag": "beat",
+      "score": 8.1,
+      "duration": 30,
+      "excerpt": "If you want all of me Talk to me Talk to me if you want Talk to me if you want all of me You have it? Or you'd be able to? Uh, I think I'm just gonna, should we...",
+      "bpm": 81.5,
+      "sung_fraction": 0.423,
+      "reason": "instrumental: music score=0.81, ~82 BPM, sustained vocal 42% of segment",
+      "stream_duration": 10888.4906875,
+      "date": "2026-07-08",
+      "source": "YanchanProduced_Live%20Session%20w%20Kiki%20Rowe_2026-07-08_720p30.mp4",
+      "copy": {
+        "hook": "\"Talk to me if you want all of me\"",
+        "hook_alt": "Watch a chorus arrive in the room",
+        "caption": "\"Talk to me if you want all of me.\" Watch a chorus arrive in the room.\n\n→ DM \"BEATS\" for the kit\n\n#YanchanProduced #Vocals #Songwriting #RnB #StudioSession"
+      },
+      "status": "new",
+      "scheduled": "",
+      "creator": {},
+      "history": [],
+      "cam": [
+        786,
+        0,
+        494,
+        281
+      ],
+      "daw": [
+        420,
+        45,
+        362,
+        353
+      ],
+      "framing_origin": "measured",
+      "selector": "music"
+    },
+    "clips/2026-07-08/022735_beat.mp4": {
+      "name": "022735_beat",
+      "path": "clips/2026-07-08/022735_beat.mp4",
+      "mode": "split",
+      "start": 8855,
+      "end": 8885,
+      "context_tag": "beat",
+      "score": 7.96,
+      "duration": 30,
+      "excerpt": "I love it. It's fucking fire. It's so fire president Jeff's like can hear you going crazy on the post-production Oh, a hundred percent. Honestly, I don't even want to do too much I think the should we do like...",
+      "bpm": 81.5,
+      "sung_fraction": 0.423,
+      "reason": "instrumental: music score=0.80, ~82 BPM, sustained vocal 42% of segment",
+      "stream_duration": 10888.4906875,
+      "date": "2026-07-08",
+      "source": "YanchanProduced_Live%20Session%20w%20Kiki%20Rowe_2026-07-08_720p30.mp4",
+      "copy": {
+        "hook": "The reaction when the post-production comes back",
+        "hook_alt": "\"You can hear him going crazy on the post-production\"",
+        "caption": "The reaction when the post-production comes back.\n\n→ Full session live on Kick\n\n#YanchanProduced #ProducerLife #Ableton #InTheStudio #Shorts"
+      },
+      "status": "new",
+      "scheduled": "",
+      "creator": {},
+      "history": [],
+      "cam": [
+        702,
+        0,
+        578,
+        329
+      ],
+      "daw": [
+        370,
+        66,
+        328,
+        320
+      ],
+      "framing_origin": "measured",
+      "selector": "music"
+    },
+    "clips/2026-07-08/023513_singing.mp4": {
+      "name": "023513_singing",
+      "path": "clips/2026-07-08/023513_singing.mp4",
+      "mode": "split",
+      "start": 9313,
+      "end": 9343,
+      "context_tag": "singing",
+      "score": 8.22,
+      "duration": 30,
+      "excerpt": "I So you could do a role you could roll out more What do you mean like Like like a vibrato. Yeah, like Showcase the riff",
+      "bpm": 81.5,
+      "sung_fraction": 0.455,
+      "reason": "singing: music score=0.82, ~82 BPM, sustained vocal 45% of segment",
+      "stream_duration": 10888.4906875,
+      "date": "2026-07-08",
+      "source": "YanchanProduced_Live%20Session%20w%20Kiki%20Rowe_2026-07-08_720p30.mp4",
+      "copy": {
+        "hook": "\"Showcase the riff\" - coaching a vibrato, live",
+        "hook_alt": "The difference between a good take and a great one, in one note",
+        "caption": "\"Showcase the riff.\" Coaching a vibrato, live.\n\n→ Free Tamil-trap drum kit in bio\n\n#YanchanProduced #Vocals #VocalCoach #ArtistDevelopment #InTheStudio"
+      },
+      "status": "new",
+      "scheduled": "",
+      "creator": {},
+      "history": [],
+      "cam": [
+        702,
+        0,
+        578,
+        330
+      ],
+      "daw": [
+        330,
+        50,
+        368,
+        408
+      ],
+      "framing_origin": "measured",
+      "selector": "music"
+    },
+    "clips/2026-07-03/011613_singing.mp4": {
+      "name": "011613_singing",
+      "path": "clips/2026-07-03/011613_singing.mp4",
+      "mode": "split",
+      "start": 4573,
+      "end": 4603,
+      "context_tag": "singing",
+      "score": 8.49,
+      "duration": 30,
+      "excerpt": "I like that one too. So this is called painted. What's the chat saying? Let's go. Faded like sounds like you walking through an aliens dark First one more commercial facts. I rated J Cole a beat Trimsky",
+      "bpm": 133.9,
+      "sung_fraction": 0.453,
+      "reason": "singing: music score=0.85, ~134 BPM, sustained vocal 45% of segment",
+      "stream_duration": 9842.1333125,
+      "date": "2026-07-03",
+      "source": "YanchanProduced_Live Session w⧸ Tresor_20260703_2bf7ec67-cb93-497d-a868-9ea5c85153b0.mp4",
+      "copy": {
+        "hook": "\"Sounds like you're walking through an alien's dark\"",
+        "hook_alt": "How producers actually describe a sound to each other",
+        "caption": "\"Sounds like you're walking through an alien's dark.\" How producers actually describe a sound.\n\n→ Free Tamil-trap drum kit in bio\n\n#YanchanProduced #ProducerLife #SoundDesign #InTheStudio #StudioSession"
+      },
+      "status": "new",
+      "scheduled": "",
+      "creator": {},
+      "history": [],
+      "cam": [
+        743,
+        0,
+        537,
+        320
+      ],
+      "daw": [
+        385,
+        58,
+        354,
+        346
+      ],
+      "framing_origin": "measured",
+      "selector": "music"
+    },
+    "clips/2026-07-03/012614_singing.mp4": {
+      "name": "012614_singing",
+      "path": "clips/2026-07-03/012614_singing.mp4",
+      "mode": "split",
+      "start": 5174,
+      "end": 5203,
+      "context_tag": "singing",
+      "score": 5.97,
+      "duration": 29,
+      "excerpt": "Yeah All right chat help us out Um What do you want me to talk about what type of words give me a word at least y'all give me a word to start with Give me a word or a...",
+      "bpm": 133.9,
+      "sung_fraction": 0.548,
+      "reason": "singing: music score=0.60, ~134 BPM, sustained vocal 54% of segment",
+      "stream_duration": 9842.1333125,
+      "date": "2026-07-03",
+      "source": "YanchanProduced_Live Session w⧸ Tresor_20260703_2bf7ec67-cb93-497d-a868-9ea5c85153b0.mp4",
+      "copy": {
+        "hook": "Asking the chat for one word, then building a song from it",
+        "hook_alt": "\"Give me a word to start with\"",
+        "caption": "Asking the chat for one word, then building a song from it.\n\n→ Full session live on Kick\n\n#YanchanProduced #KickStream #Songwriting #Freestyle #InTheStudio"
+      },
+      "status": "new",
+      "scheduled": "",
+      "creator": {},
+      "history": [],
+      "cam": [
+        690,
+        0,
+        590,
+        351
+      ],
+      "daw": [
+        295,
+        66,
+        391,
+        394
+      ],
+      "framing_origin": "measured",
+      "selector": "music"
+    },
+    "clips/2026-07-03/014308_singing.mp4": {
+      "name": "014308_singing",
+      "path": "clips/2026-07-03/014308_singing.mp4",
+      "mode": "split",
+      "start": 6188,
+      "end": 6208,
+      "context_tag": "singing",
+      "score": 6.57,
+      "duration": 20,
+      "excerpt": "Yeah Yeah, yeah, I like that And then I'll add some high hats too Bro, like clocking I could remember that",
+      "bpm": 133.9,
+      "sung_fraction": 0.666,
+      "reason": "singing: music score=0.66, ~134 BPM, sustained vocal 66% of segment",
+      "stream_duration": 9842.1333125,
+      "date": "2026-07-03",
+      "source": "YanchanProduced_Live Session w⧸ Tresor_20260703_2bf7ec67-cb93-497d-a868-9ea5c85153b0.mp4",
+      "copy": {
+        "hook": "\"And then I'll add some hi-hats too\"",
+        "hook_alt": "The small decision that changes the whole record",
+        "caption": "\"And then I'll add some hi-hats too.\" The small decision that changes the whole record.\n\n→ Free Tamil-trap drum kit in bio\n\n#YanchanProduced #Ableton #BeatMaker #ProducerLife #InTheStudio"
+      },
+      "status": "new",
+      "scheduled": "",
+      "creator": {},
+      "history": [],
+      "cam": [
+        817,
+        0,
+        463,
+        287
+      ],
+      "daw": [
+        385,
+        43,
+        428,
+        390
+      ],
+      "framing_origin": "measured",
+      "selector": "music"
+    },
+    "clips/2026-07-03/015148_singing.mp4": {
+      "name": "015148_singing",
+      "path": "clips/2026-07-03/015148_singing.mp4",
+      "mode": "split",
+      "start": 6708,
+      "end": 6734,
+      "context_tag": "singing",
+      "score": 5.95,
+      "duration": 26,
+      "excerpt": "Do what you call it? Oh, he doesn't know you fell in love with me. Oh, he doesn't know you spent a dime with me. We throwing Fetty at the mall. Oh, he doesn't know you fell in love with...",
+      "bpm": 98.7,
+      "sung_fraction": 0.573,
+      "reason": "singing: music score=0.59, ~99 BPM, sustained vocal 57% of segment",
+      "stream_duration": 9842.1333125,
+      "date": "2026-07-03",
+      "source": "YanchanProduced_Live Session w⧸ Tresor_20260703_2bf7ec67-cb93-497d-a868-9ea5c85153b0.mp4",
+      "copy": {
+        "hook": "\"He doesn't know you fell in love with me\"",
+        "hook_alt": "A verse arriving fully formed over the beat",
+        "caption": "\"He doesn't know you fell in love with me.\"\n\n→ Full session live on Kick\n\n#YanchanProduced #Vocals #Songwriting #RnB #StudioSession"
+      },
+      "status": "new",
+      "scheduled": "",
+      "creator": {},
+      "history": [],
+      "cam": [
+        819,
+        0,
+        461,
+        287
+      ],
+      "daw": [
+        385,
+        43,
+        430,
+        374
+      ],
+      "framing_origin": "measured",
+      "selector": "music"
+    },
+    "clips/2026-07-03/021744_singing.mp4": {
+      "name": "021744_singing",
+      "path": "clips/2026-07-03/021744_singing.mp4",
+      "mode": "split",
+      "start": 8264,
+      "end": 8290,
+      "context_tag": "singing",
+      "score": 6.51,
+      "duration": 26,
+      "excerpt": "Oh, oh, no I had to go Oh, oh, I be on the road Oh, oh, you Yeah, oh, yeah If we did it it would be for the second half Yeah I don't know what you needed Oh, oh,...",
+      "bpm": 98.7,
+      "sung_fraction": 0.469,
+      "reason": "singing: music score=0.65, ~99 BPM, sustained vocal 46% of segment",
+      "stream_duration": 9842.1333125,
+      "date": "2026-07-03",
+      "source": "YanchanProduced_Live Session w⧸ Tresor_20260703_2bf7ec67-cb93-497d-a868-9ea5c85153b0.mp4",
+      "copy": {
+        "hook": "The hook comes back around, harder",
+        "hook_alt": "Same line, new pocket. This is the take.",
+        "caption": "The hook comes back around, harder.\n\n→ DM \"BEATS\" for the kit\n\n#YanchanProduced #Vocals #Songwriting #InTheStudio #Shorts"
+      },
+      "status": "new",
+      "scheduled": "",
+      "creator": {},
+      "history": [],
+      "cam": [
+        749,
+        0,
+        531,
+        345
+      ],
+      "daw": [
+        385,
+        43,
+        360,
+        347
+      ],
+      "framing_origin": "measured",
+      "selector": "music"
+    },
+    "clips/2026-07-03/022745_singing.mp4": {
+      "name": "022745_singing",
+      "path": "clips/2026-07-03/022745_singing.mp4",
+      "mode": "reframe",
+      "start": 8865,
+      "end": 8895,
+      "context_tag": "singing",
+      "score": 7.28,
+      "duration": 30,
+      "excerpt": "You know I had to go No, I had to go I'll be on the road You No, I had to go No, I had to go You You know I had to go No, I had to go Oh,...",
+      "bpm": 98.7,
+      "sung_fraction": 0.453,
+      "reason": "singing: music score=0.73, ~99 BPM, sustained vocal 45% of segment",
+      "stream_duration": 9842.1333125,
+      "date": "2026-07-03",
+      "source": "YanchanProduced_Live Session w⧸ Tresor_20260703_2bf7ec67-cb93-497d-a868-9ea5c85153b0.mp4",
+      "copy": {
+        "hook": "Locked into the hook and not letting go",
+        "hook_alt": "Thirty seconds of one line becoming the song",
+        "caption": "Locked into the hook and not letting go.\n\n→ Free Tamil-trap drum kit in bio\n\n#YanchanProduced #Vocals #Songwriting #StudioSession #Shorts"
+      },
+      "status": "new",
+      "scheduled": "",
+      "creator": {},
+      "history": [],
+      "cam": [
+        454,
+        268,
+        656,
+        368
+      ],
+      "daw": null,
+      "framing_origin": "measured",
+      "selector": "music"
+    },
+    "clips/2026-07-03/023550_singing.mp4": {
+      "name": "023550_singing",
+      "path": "clips/2026-07-03/023550_singing.mp4",
+      "mode": "reframe",
+      "start": 9350,
+      "end": 9380,
+      "context_tag": "singing",
+      "score": 7.75,
+      "duration": 30,
+      "excerpt": "Yeah You got away from our escape and I helped you do it I want only things to stay familiar",
+      "bpm": 125,
+      "sung_fraction": 0.535,
+      "reason": "singing: music score=0.78, ~125 BPM, sustained vocal 53% of segment",
+      "stream_duration": 9842.1333125,
+      "date": "2026-07-03",
+      "source": "YanchanProduced_Live Session w⧸ Tresor_20260703_2bf7ec67-cb93-497d-a868-9ea5c85153b0.mp4",
+      "copy": {
+        "hook": "\"I want only things to stay familiar\"",
+        "hook_alt": "The line that landed late in the session",
+        "caption": "\"I want only things to stay familiar.\" The line that landed late in the session.\n\n→ Full session live on Kick\n\n#YanchanProduced #Songwriting #Vocals #InTheStudio #KickStream"
+      },
+      "status": "new",
+      "scheduled": "",
+      "creator": {},
+      "history": [],
+      "cam": [
+        0,
+        0,
+        1280,
+        720
+      ],
+      "daw": null,
+      "framing_origin": "measured",
+      "selector": "music"
+    },
+    "clips/2026-07-22/003227_beat.mp4": {
+      "name": "003227_beat",
+      "path": "clips/2026-07-22/003227_beat.mp4",
+      "mode": "reframe",
+      "framing_origin": "measured",
+      "cam": [
+        0,
+        0,
+        1280,
+        720
+      ],
+      "daw": null,
+      "start": 1947,
+      "end": 1977,
+      "context_tag": "beat",
+      "score": 6.97,
+      "duration": 30,
+      "excerpt": "That I can be who I dream to be I wanna be a doctor, I can be there I wanna be a lawyer, I can see that And whoever I wanna be I can be who I wanna be I...",
+      "bpm": 121,
+      "sung_fraction": 0.426,
+      "reason": "instrumental: music score=0.70, ~121 BPM, sustained vocal 42% of segment",
+      "stream_duration": 10791.0186875,
+      "date": "2026-07-22",
+      "source": "",
+      "copy": {
+        "hook": "\"I can be who I dream to be\" — writing the hook",
+        "hook_alt": "An affirmation you can dance to",
+        "caption": "\"I can be who I dream to be.\" Writing the hook line by line.\n\n→ DM \"BEATS\" for the kit\n\n#YanchanProduced #Songwriting #HookWriting #InTheStudio #StudioSession"
+      },
+      "status": "new",
+      "scheduled": "",
+      "creator": {
+        "context_tag": "production"
+      },
+      "history": [
+        {
+          "field": "context_tag",
+          "from": null,
+          "to": "vocal"
+        },
+        {
+          "field": "context_tag",
+          "from": "vocal",
+          "to": "collab"
+        },
+        {
+          "field": "context_tag",
+          "from": "collab",
+          "to": "reaction"
+        },
+        {
+          "field": "context_tag",
+          "from": "reaction",
+          "to": "freestyle"
+        },
+        {
+          "field": "context_tag",
+          "from": "freestyle",
+          "to": "production"
+        }
+      ],
+      "selector": "music"
+    },
+    "clips/2026-07-22/004027_beat.mp4": {
+      "name": "004027_beat",
+      "path": "clips/2026-07-22/004027_beat.mp4",
+      "mode": "split",
+      "framing_origin": "measured",
+      "cam": [
+        827,
+        0,
+        453,
+        279
+      ],
+      "daw": [
+        387,
+        54,
+        436,
+        426
+      ],
+      "start": 2427,
+      "end": 2457,
+      "context_tag": "beat",
+      "score": 7.79,
+      "duration": 30,
+      "excerpt": "Yeah fire so that's beat number one. I have a sick bounce to it. I like that. Thank you okay chat likes it yeah wow you know I did so that my signature sound is this you'll hear like an...",
+      "bpm": 79.8,
+      "sung_fraction": 0.36,
+      "reason": "instrumental: music score=0.78, ~80 BPM, sustained vocal 36% of segment",
+      "stream_duration": 10791.0186875,
+      "date": "2026-07-22",
+      "source": "",
+      "copy": {
+        "hook": "Beat number one, and chat already knows",
+        "hook_alt": "\"That's my signature sound — you'll hear it\"",
+        "caption": "Beat number one. The bounce is already there.\n\n→ Free Tamil-trap drum kit in bio\n\n#YanchanProduced #BeatMaker #Ableton #ProducerLife #InTheStudio"
+      },
+      "status": "approved",
+      "scheduled": "",
+      "selector": "music"
+    },
+    "clips/2026-07-22/004720_beat.mp4": {
+      "name": "004720_beat",
+      "path": "clips/2026-07-22/004720_beat.mp4",
+      "mode": "split",
+      "framing_origin": "measured",
+      "cam": [
+        827,
+        0,
+        453,
+        279
+      ],
+      "daw": [
+        387,
+        43,
+        436,
+        421
+      ],
+      "start": 2840,
+      "end": 2870,
+      "context_tag": "beat",
+      "score": 7.18,
+      "duration": 30,
+      "excerpt": "I can't hold back this time I can't hold back this feeling Come on and groove for me baby We can dance the night away Get this",
+      "bpm": 104.2,
+      "sung_fraction": 0.431,
+      "reason": "instrumental: music score=0.72, ~104 BPM, sustained vocal 43% of segment",
+      "stream_duration": 10791.0186875,
+      "date": "2026-07-22",
+      "source": "",
+      "copy": {
+        "hook": "\"We can dance the night away\"",
+        "hook_alt": "The groove found its lyrics in one pass",
+        "caption": "\"We can dance the night away.\" The groove found its lyrics in one pass.\n\n→ Full session live on Kick\n\n#YanchanProduced #Songwriting #Groove #RnB #StudioSession"
+      },
+      "status": "new",
+      "scheduled": "",
+      "selector": "music"
+    },
+    "clips/2026-07-22/005433_singing.mp4": {
+      "name": "005433_singing",
+      "path": "clips/2026-07-22/005433_singing.mp4",
+      "mode": "split",
+      "framing_origin": "measured",
+      "cam": [
+        827,
+        0,
+        453,
+        279
+      ],
+      "daw": [
+        387,
+        43,
+        436,
+        426
+      ],
+      "start": 3273,
+      "end": 3303,
+      "context_tag": "singing",
+      "score": 6.89,
+      "duration": 30,
+      "excerpt": "We can love, we can groove until we can't no more We gon' love them tight, we gon' love you tonight, tonight We gon' love you tonight, we gon' love you tonight It still felt weird, right? Yeah a little...",
+      "bpm": 104.2,
+      "sung_fraction": 0.477,
+      "reason": "singing: music score=0.69, ~104 BPM, sustained vocal 47% of segment",
+      "stream_duration": 10791.0186875,
+      "date": "2026-07-22",
+      "source": "",
+      "copy": {
+        "hook": "\"We gon' love you tonight\"",
+        "hook_alt": "Run it back until it doesn't feel weird anymore",
+        "caption": "\"We gon' love you tonight.\" Run it back until it doesn't feel weird anymore.\n\n→ DM \"BEATS\" for the kit\n\n#YanchanProduced #Vocals #Songwriting #InTheStudio #StudioSession"
+      },
+      "status": "new",
+      "scheduled": "",
+      "selector": "music"
+    },
+    "clips/2026-07-22/010223_singing.mp4": {
+      "name": "010223_singing",
+      "path": "clips/2026-07-22/010223_singing.mp4",
+      "mode": "split",
+      "framing_origin": "measured",
+      "cam": [
+        828,
+        0,
+        452,
+        279
+      ],
+      "daw": [
+        387,
+        46,
+        437,
+        427
+      ],
+      "start": 3743,
+      "end": 3773,
+      "context_tag": "singing",
+      "score": 7.06,
+      "duration": 30,
+      "excerpt": "Don't just do, try to do, what we do You can excuse, what we do, try to move Okay, first of all, your range is crazy Nobody should be going that high and killing it Second of all, there's two...",
+      "bpm": 104.2,
+      "sung_fraction": 0.537,
+      "reason": "singing: music score=0.71, ~104 BPM, sustained vocal 53% of segment",
+      "stream_duration": 10791.0186875,
+      "date": "2026-07-22",
+      "source": "",
+      "copy": {
+        "hook": "\"Your range is crazy\"",
+        "hook_alt": "Nobody should be going that high and killing it",
+        "caption": "\"Your range is crazy. Nobody should be going that high and killing it.\"\n\n→ Full session live on Kick\n\n#YanchanProduced #Vocals #VocalCoach #ArtistDevelopment #InTheStudio"
+      },
+      "status": "new",
+      "scheduled": "",
+      "selector": "music"
+    },
+    "clips/2026-07-22/011659_beat.mp4": {
+      "name": "011659_beat",
+      "path": "clips/2026-07-22/011659_beat.mp4",
+      "mode": "reframe",
+      "framing_origin": "measured",
+      "cam": [
+        0,
+        0,
+        1280,
+        720
+      ],
+      "daw": null,
+      "start": 4619,
+      "end": 4649,
+      "context_tag": "beat",
+      "score": 7.46,
+      "duration": 30,
+      "excerpt": "If you're going, show me something Let's start moving, speakers booming Let's start going, show me something Not a way, not a time, I keep planning You ain't stopping, keep on walking Making all the life we go",
+      "bpm": 104.2,
+      "sung_fraction": 0.342,
+      "reason": "instrumental: music score=0.75, ~104 BPM, sustained vocal 34% of segment",
+      "stream_duration": 10791.0186875,
+      "date": "2026-07-22",
+      "source": "",
+      "copy": {
+        "hook": "\"Speakers booming\"",
+        "hook_alt": "The pre-chorus writes itself once the beat drops",
+        "caption": "\"Let's start moving, speakers booming.\" The pre-chorus writes itself.\n\n→ Free Tamil-trap drum kit in bio\n\n#YanchanProduced #Songwriting #BeatMaker #InTheStudio #Shorts"
+      },
+      "status": "new",
+      "scheduled": "",
+      "selector": "music"
+    },
+    "clips/2026-07-22/012313_beat.mp4": {
+      "name": "012313_beat",
+      "path": "clips/2026-07-22/012313_beat.mp4",
+      "mode": "reframe",
+      "framing_origin": "measured",
+      "cam": [
+        0,
+        0,
+        1280,
+        720
+      ],
+      "daw": null,
+      "start": 4993,
+      "end": 5023,
+      "context_tag": "beat",
+      "score": 7.75,
+      "duration": 30,
+      "excerpt": "have a little idea okay when you're ready to record let me know okay chat okay life after said this is hard as we said firefire emoji thank you for life",
+      "bpm": 104.2,
+      "sung_fraction": 0.342,
+      "reason": "instrumental: music score=0.78, ~104 BPM, sustained vocal 34% of segment",
+      "stream_duration": 10791.0186875,
+      "date": "2026-07-22",
+      "source": "",
+      "copy": {
+        "hook": "\"Chat said this is hard\"",
+        "hook_alt": "A little idea, then \"let me know when you're ready to record\"",
+        "caption": "A little idea in the room, then \"let me know when you're ready to record.\"\n\n→ DM \"BEATS\" for the kit\n\n#YanchanProduced #MusicProducer #StudioSession #ProducerLife #InTheStudio"
+      },
+      "status": "new",
+      "scheduled": "",
+      "selector": "music"
+    },
+    "clips/2026-07-22/014224_beat.mp4": {
+      "name": "014224_beat",
+      "path": "clips/2026-07-22/014224_beat.mp4",
+      "mode": "split",
+      "framing_origin": "measured",
+      "cam": [
+        764,
+        0,
+        516,
+        295
+      ],
+      "daw": [
+        387,
+        43,
+        373,
+        358
+      ],
+      "start": 6144,
+      "end": 6165,
+      "context_tag": "beat",
+      "score": 6.86,
+      "duration": 21,
+      "excerpt": "",
+      "bpm": 104.2,
+      "sung_fraction": 0.371,
+      "reason": "instrumental: music score=0.69, ~104 BPM, sustained vocal 37% of segment",
+      "stream_duration": 10791.0186875,
+      "date": "2026-07-22",
+      "source": "",
+      "copy": {
+        "hook": "The beat does the talking here",
+        "hook_alt": "Twenty-one seconds of pure bounce",
+        "caption": "The beat does the talking here.\n\n→ Free Tamil-trap drum kit in bio\n\n#YanchanProduced #BeatMaker #Ableton #Instrumental #InTheStudio"
+      },
+      "status": "new",
+      "scheduled": "",
+      "selector": "music"
+    },
+    "clips/2026-07-22/022123_beat.mp4": {
+      "name": "022123_beat",
+      "path": "clips/2026-07-22/022123_beat.mp4",
+      "mode": "reframe",
+      "framing_origin": "measured",
+      "cam": [
+        564,
+        102,
+        640,
+        360
+      ],
+      "daw": null,
+      "start": 8483,
+      "end": 8513,
+      "context_tag": "beat",
+      "score": 7,
+      "duration": 30,
+      "excerpt": "Okay, so you have really good sound selection. I like the space you put I like the second half more than the first half like as soon as she walked in you see how she was like be able to...",
+      "bpm": 89.3,
+      "sung_fraction": 0.3,
+      "reason": "instrumental: music score=0.70, ~89 BPM, sustained vocal 30% of segment",
+      "stream_duration": 10791.0186875,
+      "date": "2026-07-22",
+      "source": "",
+      "copy": {
+        "hook": "\"Really good sound selection\"",
+        "hook_alt": "Producer feedback that actually teaches",
+        "caption": "\"You have really good sound selection.\" Feedback that actually teaches.\n\n→ DM \"BEATS\" for the kit\n\n#YanchanProduced #ProducerTips #ArtistDevelopment #InTheStudio #StudioSession"
+      },
+      "status": "new",
+      "scheduled": "",
+      "selector": "music"
+    },
+    "clips/2026-07-22/025751_beat.mp4": {
+      "name": "025751_beat",
+      "path": "clips/2026-07-22/025751_beat.mp4",
+      "mode": "split",
+      "framing_origin": "measured",
+      "cam": [
+        759,
+        0,
+        521,
+        314
+      ],
+      "daw": [
+        325,
+        64,
+        430,
+        420
+      ],
+      "start": 10671,
+      "end": 10692,
+      "context_tag": "beat",
+      "score": 7.19,
+      "duration": 21,
+      "excerpt": "Woo! Woo! Woo! Woo! Sun is fading with the chasing Take a ride by your side Keep on dancing No one asking",
+      "bpm": 104.2,
+      "sung_fraction": 0.442,
+      "reason": "instrumental: music score=0.72, ~104 BPM, sustained vocal 44% of segment",
+      "stream_duration": 10791.0186875,
+      "date": "2026-07-22",
+      "source": "",
+      "copy": {
+        "hook": "\"Sun is fading\" — then the room loses it",
+        "hook_alt": "The moment the hook lands and everyone feels it",
+        "caption": "\"Sun is fading with the chasing.\" The moment the hook lands, the room loses it.\n\n→ Full session live on Kick\n\n#YanchanProduced #Songwriting #HookWriting #StudioSession #Vocals"
+      },
+      "status": "new",
+      "scheduled": "",
+      "selector": "music"
+    },
+    "clips/2026-07-29/004539_singing.mp4": {
+      "name": "004539_singing",
+      "path": "clips/2026-07-29/004539_singing.mp4",
+      "mode": "split",
+      "framing_origin": "measured",
+      "cam": [
+        764,
+        0,
+        516,
+        336
+      ],
+      "daw": [
+        385,
+        43,
+        375,
+        348
+      ],
+      "start": 2739,
+      "end": 2769,
+      "context_tag": "singing",
+      "score": 6.51,
+      "duration": 30,
+      "excerpt": "",
+      "bpm": 89.3,
+      "sung_fraction": 0.661,
+      "reason": "singing: music score=0.65, ~89 BPM, sustained vocal 66% of segment",
+      "stream_duration": 7079.4026875,
+      "date": "2026-07-29",
+      "source": "",
+      "copy": {
+        "hook": "The melody says what words can't",
+        "hook_alt": "Thirty seconds of pure vocal run",
+        "caption": "The melody says what words can't.\n\n→ Free Tamil-trap drum kit in bio\n\n#YanchanProduced #Vocals #Melody #InTheStudio #Shorts"
+      },
+      "status": "new",
+      "scheduled": "",
+      "creator": {
+        "context_tag": "moment"
+      },
+      "history": [
+        {
+          "field": "context_tag",
+          "from": null,
+          "to": "moment"
+        }
+      ],
+      "selector": "music"
+    },
+    "clips/2026-07-29/010256_singing.mp4": {
+      "name": "010256_singing",
+      "path": "clips/2026-07-29/010256_singing.mp4",
+      "mode": "reframe",
+      "framing_origin": "measured",
+      "cam": [
+        12,
+        76,
+        1124,
+        632
+      ],
+      "daw": null,
+      "start": 3776,
+      "end": 3799,
+      "context_tag": "singing",
+      "score": 6.47,
+      "duration": 23,
+      "excerpt": "It has to be fixed, it's my fear. How does this not have a billion views here? When you try your best but you don't succeed When you get what you want but not what you need.",
+      "bpm": 73.5,
+      "sung_fraction": 0.571,
+      "reason": "singing: music score=0.65, ~74 BPM, sustained vocal 57% of segment",
+      "stream_duration": 7079.4026875,
+      "date": "2026-07-29",
+      "source": "",
+      "copy": {
+        "hook": "\"How does this not have a billion views\"",
+        "hook_alt": "Going line for line with a classic",
+        "caption": "\"How does this not have a billion views here?\" Going line for line with a classic.\n\n→ Full session live on Kick\n\n#YanchanProduced #Vocals #Cover #StudioSession #InTheStudio"
+      },
+      "status": "new",
+      "scheduled": "",
+      "selector": "music"
+    },
+    "clips/2026-07-29/011642_singing.mp4": {
+      "name": "011642_singing",
+      "path": "clips/2026-07-29/011642_singing.mp4",
+      "mode": "split",
+      "framing_origin": "measured",
+      "cam": [
+        646,
+        0,
+        634,
+        366
+      ],
+      "daw": [
+        295,
+        66,
+        347,
+        422
+      ],
+      "start": 4602,
+      "end": 4622,
+      "context_tag": "singing",
+      "score": 7.36,
+      "duration": 20,
+      "excerpt": "See the stream",
+      "bpm": 133.9,
+      "sung_fraction": 0.619,
+      "reason": "singing: music score=0.74, ~134 BPM, sustained vocal 61% of segment",
+      "stream_duration": 7079.4026875,
+      "date": "2026-07-29",
+      "source": "",
+      "copy": {
+        "hook": "Twenty seconds of a vocal finding itself",
+        "hook_alt": "The take before the take",
+        "caption": "The take before the take — twenty seconds of a vocal finding itself.\n\n→ DM \"BEATS\" for the kit\n\n#YanchanProduced #Vocals #Songwriting #InTheStudio #StudioSession"
+      },
+      "status": "new",
+      "scheduled": "",
+      "selector": "music"
+    },
+    "clips/2026-07-29/012232_singing.mp4": {
+      "name": "012232_singing",
+      "path": "clips/2026-07-29/012232_singing.mp4",
+      "mode": "split",
+      "framing_origin": "measured",
+      "cam": [
+        646,
+        0,
+        634,
+        366
+      ],
+      "daw": [
+        380,
+        66,
+        262,
+        256
+      ],
+      "start": 4952,
+      "end": 4972,
+      "context_tag": "singing",
+      "score": 7.26,
+      "duration": 20,
+      "excerpt": "I think if I do it again, it might be too long.",
+      "bpm": 133.9,
+      "sung_fraction": 0.603,
+      "reason": "singing: music score=0.73, ~134 BPM, sustained vocal 60% of segment",
+      "stream_duration": 7079.4026875,
+      "date": "2026-07-29",
+      "source": "",
+      "copy": {
+        "hook": "\"If I do it again, it might be too long\"",
+        "hook_alt": "Too many good takes is a real problem",
+        "caption": "\"If I do it again, it might be too long.\" Too many good takes is a real problem.\n\n→ Free Tamil-trap drum kit in bio\n\n#YanchanProduced #MusicProducer #StudioSession #ProducerLife #InTheStudio"
+      },
+      "status": "new",
+      "scheduled": "",
+      "selector": "music"
+    },
+    "clips/2026-07-29/013841_singing.mp4": {
+      "name": "013841_singing",
+      "path": "clips/2026-07-29/013841_singing.mp4",
+      "mode": "split",
+      "framing_origin": "measured",
+      "cam": [
+        643,
+        0,
+        637,
+        366
+      ],
+      "daw": [
+        379,
+        64,
+        260,
+        254
+      ],
+      "start": 5921,
+      "end": 5942,
+      "context_tag": "singing",
+      "score": 5.99,
+      "duration": 21,
+      "excerpt": "We've reached our own Lights will guide you home I will be mine I will reach for the lungs And I will try",
+      "bpm": 91.5,
+      "sung_fraction": 0.642,
+      "reason": "singing: music score=0.60, ~92 BPM, sustained vocal 64% of segment",
+      "stream_duration": 7079.4026875,
+      "date": "2026-07-29",
+      "source": "",
+      "copy": {
+        "hook": "\"Lights will guide you home\"",
+        "hook_alt": "Another classic, rebuilt live in the studio",
+        "caption": "\"Lights will guide you home.\" Another classic rebuilt live in the studio.\n\n→ Full session live on Kick\n\n#YanchanProduced #Vocals #Cover #InTheStudio #KickStream"
+      },
+      "status": "new",
+      "scheduled": "",
+      "selector": "music"
+    },
+    "clips/2026-07-29/015506_beat.mp4": {
+      "name": "015506_beat",
+      "path": "clips/2026-07-29/015506_beat.mp4",
+      "mode": "reframe",
+      "framing_origin": "measured",
+      "cam": [
+        480,
+        158,
+        644,
+        362
+      ],
+      "daw": null,
+      "start": 6906,
+      "end": 6936,
+      "context_tag": "beat",
+      "score": 9.19,
+      "duration": 30,
+      "excerpt": "there you go there you go okay honestly now that I'm hearing it now I'm gonna have to put this in my live show I'm gonna put it in my live show so tg for life you have to come...",
+      "bpm": 121,
+      "sung_fraction": 0.035,
+      "reason": "instrumental: music score=0.92, ~121 BPM, sustained vocal 3% of segment",
+      "stream_duration": 7079.4026875,
+      "date": "2026-07-29",
+      "source": "",
+      "copy": {
+        "hook": "\"I'm gonna have to put this in my live show\"",
+        "hook_alt": "The beat that made the producer rewrite his setlist",
+        "caption": "\"I'm gonna have to put this in my live show.\" The beat that rewrote the setlist.\n\n→ DM \"BEATS\" for the kit\n\n#YanchanProduced #BeatMaker #Ableton #ProducerLife #InTheStudio"
+      },
+      "status": "new",
+      "scheduled": "",
+      "selector": "music"
+    },
+    "clips/2026-08-12/010936_beat.mp4": {
+      "name": "010936_beat",
+      "path": "clips/2026-08-12/010936_beat.mp4",
+      "mode": "reframe",
+      "framing_origin": "measured",
+      "cam": [
+        204,
+        310,
+        720,
+        404
+      ],
+      "daw": null,
+      "start": 4176,
+      "end": 4206,
+      "context_tag": "beat",
+      "score": 8.39,
+      "duration": 30,
+      "excerpt": "Yeah, man. That's a yachting right there. Okay. Back to Jamaica. Geez. And then the final beat. It's called August 11th. Okay. The day you made it today.",
+      "bpm": 117.2,
+      "sung_fraction": 0.377,
+      "reason": "instrumental: music score=0.84, ~117 BPM, sustained vocal 37% of segment",
+      "stream_duration": 11326.0586875,
+      "date": "2026-08-12",
+      "source": "",
+      "copy": {
+        "hook": "The final beat is called \"August 11th\"",
+        "hook_alt": "Naming the beat after the day you made it",
+        "caption": "The final beat is called \"August 11th\" — the day you made it.\n\n→ Free Tamil-trap drum kit in bio\n\n#YanchanProduced #BeatMaker #Songwriting #Ableton #InTheStudio"
+      },
+      "status": "new",
+      "scheduled": "",
+      "creator": {
+        "framing": {
+          "cam": [
+            204,
+            310,
+            720,
+            404
+          ],
+          "daw": [
+            330,
+            46,
+            307,
+            390
+          ]
+        },
+        "context_tag": "beat"
+      },
+      "history": [
+        {
+          "field": "framing",
+          "from": null,
+          "to": {
+            "cam": [
+              204,
+              310,
+              720,
+              404
+            ],
+            "daw": [
+              330,
+              46,
+              307,
+              390
+            ]
+          }
+        },
+        {
+          "field": "context_tag",
+          "from": null,
+          "to": "singing"
+        },
+        {
+          "field": "context_tag",
+          "from": "singing",
+          "to": "beat"
+        }
+      ],
+      "selector": "music"
+    },
+    "clips/2026-08-12/011834_beat.mp4": {
+      "name": "011834_beat",
+      "path": "clips/2026-08-12/011834_beat.mp4",
+      "mode": "split",
+      "framing_origin": "measured",
+      "cam": [
+        766,
+        0,
+        514,
+        303
+      ],
+      "daw": [
+        388,
+        43,
+        374,
+        343
+      ],
+      "start": 4714,
+      "end": 4744,
+      "context_tag": "beat",
+      "score": 7.21,
+      "duration": 30,
+      "excerpt": "I'm a writer, I gotta write this down.",
+      "bpm": 93.8,
+      "sung_fraction": 0.371,
+      "reason": "instrumental: music score=0.72, ~94 BPM, sustained vocal 37% of segment",
+      "stream_duration": 11326.0586875,
+      "date": "2026-08-12",
+      "source": "",
+      "copy": {
+        "hook": "\"I'm a writer, I gotta write this down\"",
+        "hook_alt": "When the bar is too good to trust to memory",
+        "caption": "\"I'm a writer, I gotta write this down.\" Too good to trust to memory.\n\n→ DM \"BEATS\" for the kit\n\n#YanchanProduced #Songwriting #Bars #HipHop #InTheStudio"
+      },
+      "status": "new",
+      "scheduled": "",
+      "selector": "music"
+    },
+    "clips/2026-08-12/013024_beat.mp4": {
+      "name": "013024_beat",
+      "path": "clips/2026-08-12/013024_beat.mp4",
+      "mode": "split",
+      "framing_origin": "measured",
+      "cam": [
+        765,
+        0,
+        515,
+        303
+      ],
+      "daw": [
+        298,
+        50,
+        463,
+        479
+      ],
+      "start": 5424,
+      "end": 5451,
+      "context_tag": "beat",
+      "score": 8.03,
+      "duration": 27,
+      "excerpt": "",
+      "bpm": 93.8,
+      "sung_fraction": 0.306,
+      "reason": "instrumental: music score=0.80, ~94 BPM, sustained vocal 30% of segment",
+      "stream_duration": 11326.0586875,
+      "date": "2026-08-12",
+      "source": "",
+      "copy": {
+        "hook": "The pocket is the whole hook",
+        "hook_alt": "Twenty-seven seconds of drums sitting exactly right",
+        "caption": "The pocket is the whole hook.\n\n→ Free Tamil-trap drum kit in bio\n\n#YanchanProduced #BeatMaker #Drums #Ableton #InTheStudio"
+      },
+      "status": "new",
+      "scheduled": "",
+      "selector": "music"
+    },
+    "clips/2026-08-12/013923_beat.mp4": {
+      "name": "013923_beat",
+      "path": "clips/2026-08-12/013923_beat.mp4",
+      "mode": "split",
+      "framing_origin": "measured",
+      "cam": [
+        766,
+        0,
+        514,
+        304
+      ],
+      "daw": [
+        306,
+        50,
+        456,
+        445
+      ],
+      "start": 5963,
+      "end": 5993,
+      "context_tag": "beat",
+      "score": 8.75,
+      "duration": 30,
+      "excerpt": "",
+      "bpm": 93.8,
+      "sung_fraction": 0.297,
+      "reason": "instrumental: music score=0.88, ~94 BPM, sustained vocal 29% of segment",
+      "stream_duration": 11326.0586875,
+      "date": "2026-08-12",
+      "source": "",
+      "copy": {
+        "hook": "The sound hunt: \"choir\" into the browser",
+        "hook_alt": "Digging for the one sample that makes the beat",
+        "caption": "Digging for the one sample that makes the beat.\n\n→ DM \"BEATS\" for the kit\n\n#YanchanProduced #SoundDesign #SampleDigging #ProducerLife #InTheStudio"
+      },
+      "status": "new",
+      "scheduled": "",
+      "selector": "music"
+    },
+    "clips/2026-08-12/014445_beat.mp4": {
+      "name": "014445_beat",
+      "path": "clips/2026-08-12/014445_beat.mp4",
+      "mode": "split",
+      "framing_origin": "measured",
+      "cam": [
+        726,
+        0,
+        554,
+        330
+      ],
+      "daw": [
+        388,
+        62,
+        334,
+        326
+      ],
+      "start": 6285,
+      "end": 6315,
+      "context_tag": "beat",
+      "score": 8.08,
+      "duration": 30,
+      "excerpt": "I rip, I rock You in, I not You talking down to me and I'm the one you trying to be okay Don't talk next to me okay Uh-uh, music, be okay Was that 16? Uh, let me see Sorry,...",
+      "bpm": 138.9,
+      "sung_fraction": 0.242,
+      "reason": "instrumental: music score=0.81, ~139 BPM, sustained vocal 24% of segment",
+      "stream_duration": 11326.0586875,
+      "date": "2026-08-12",
+      "source": "",
+      "copy": {
+        "hook": "\"Was that 16?\" — counting bars mid-heat",
+        "hook_alt": "Bars so clean he has to count his own",
+        "caption": "Bars so clean he has to stop and count them: \"Was that 16?\"\n\n→ Full session live on Kick\n\n#YanchanProduced #Freestyle #Bars #HipHop #InTheStudio"
+      },
+      "status": "new",
+      "scheduled": "",
+      "selector": "music"
+    },
+    "clips/2026-08-12/015007_beat.mp4": {
+      "name": "015007_beat",
+      "path": "clips/2026-08-12/015007_beat.mp4",
+      "mode": "split",
+      "framing_origin": "measured",
+      "cam": [
+        727,
+        0,
+        553,
+        330
+      ],
+      "daw": [
+        388,
+        63,
+        335,
+        327
+      ],
+      "start": 6607,
+      "end": 6637,
+      "context_tag": "beat",
+      "score": 7.33,
+      "duration": 30,
+      "excerpt": "Okay! You talkin' down to me and I- I eat a goat for lunch, been in the zone for months Cookin' like Uncle Chris, you thought I was supposed to miss I rip, I rock, you in a knot You...",
+      "bpm": 138.9,
+      "sung_fraction": 0.268,
+      "reason": "instrumental: music score=0.73, ~139 BPM, sustained vocal 26% of segment",
+      "stream_duration": 11326.0586875,
+      "date": "2026-08-12",
+      "source": "",
+      "copy": {
+        "hook": "\"Cookin' like Uncle Chris\"",
+        "hook_alt": "\"I eat a goat for lunch, been in the zone for months\"",
+        "caption": "\"Cookin' like Uncle Chris.\" \"Been in the zone for months.\"\n\n→ DM \"BEATS\" for the kit\n\n#YanchanProduced #Freestyle #Bars #HipHop #StudioSession"
+      },
+      "status": "new",
+      "scheduled": "",
+      "selector": "music"
+    },
+    "clips/2026-08-12/021721_beat.mp4": {
+      "name": "021721_beat",
+      "path": "clips/2026-08-12/021721_beat.mp4",
+      "mode": "split",
+      "framing_origin": "measured",
+      "cam": [
+        726,
+        0,
+        554,
+        330
+      ],
+      "daw": [
+        303,
+        64,
+        419,
+        409
+      ],
+      "start": 8241,
+      "end": 8271,
+      "context_tag": "beat",
+      "score": 8.21,
+      "duration": 30,
+      "excerpt": "Yeah, yeah, I love making music",
+      "bpm": 93.8,
+      "sung_fraction": 0.235,
+      "reason": "instrumental: music score=0.82, ~94 BPM, sustained vocal 23% of segment",
+      "stream_duration": 11326.0586875,
+      "date": "2026-08-12",
+      "source": "",
+      "copy": {
+        "hook": "\"I love making music\"",
+        "hook_alt": "Say it plain, then make it slap",
+        "caption": "\"I love making music.\" Say it plain, then make it slap.\n\n→ Free Tamil-trap drum kit in bio\n\n#YanchanProduced #MusicProducer #Ableton #InTheStudio #Shorts"
+      },
+      "status": "new",
+      "scheduled": "",
+      "selector": "music"
+    },
+    "clips/2026-08-12/023530_beat.mp4": {
+      "name": "023530_beat",
+      "path": "clips/2026-08-12/023530_beat.mp4",
+      "mode": "split",
+      "framing_origin": "measured",
+      "cam": [
+        728,
+        0,
+        552,
+        330
+      ],
+      "daw": [
+        323,
+        64,
+        401,
+        392
+      ],
+      "start": 9330,
+      "end": 9360,
+      "context_tag": "beat",
+      "score": 7.51,
+      "duration": 30,
+      "excerpt": "Living all you dime, boy, you gotta pick a side, pick a side, pick a side You good? Yeah, I'm doing the masters for my album right now Yeah, yeah, so this is like the final, final, finals Let's go!...",
+      "bpm": 138.9,
+      "sung_fraction": 0.281,
+      "reason": "instrumental: music score=0.75, ~139 BPM, sustained vocal 28% of segment",
+      "stream_duration": 11326.0586875,
+      "date": "2026-08-12",
+      "source": "",
+      "copy": {
+        "hook": "\"I'm doing the masters for my album right now\"",
+        "hook_alt": "The final, final, finals",
+        "caption": "\"I'm doing the masters for my album right now.\" The final, final, finals.\n\n→ DM \"BEATS\" for the kit\n\n#YanchanProduced #MixEngineer #Mastering #AlbumMode #InTheStudio"
+      },
+      "status": "new",
+      "scheduled": "",
+      "selector": "music"
+    },
+    "clips/2026-08-12/024042_beat.mp4": {
+      "name": "024042_beat",
+      "path": "clips/2026-08-12/024042_beat.mp4",
+      "mode": "split",
+      "framing_origin": "measured",
+      "cam": [
+        726,
+        0,
+        554,
+        330
+      ],
+      "daw": [
+        307,
+        64,
+        415,
+        405
+      ],
+      "start": 9642,
+      "end": 9672,
+      "context_tag": "beat",
+      "score": 7.21,
+      "duration": 30,
+      "excerpt": "I Don't want to compete with the vocal though, you know they mean Yeah",
+      "bpm": 138.9,
+      "sung_fraction": 0.268,
+      "reason": "instrumental: music score=0.72, ~139 BPM, sustained vocal 26% of segment",
+      "stream_duration": 11326.0586875,
+      "date": "2026-08-12",
+      "source": "",
+      "copy": {
+        "hook": "\"I don't want to compete with the vocal\"",
+        "hook_alt": "The arrangement rule every producer learns",
+        "caption": "\"I don't want to compete with the vocal.\" The arrangement rule every producer learns.\n\n→ Full session live on Kick\n\n#YanchanProduced #ProducerTips #MixEngineer #Ableton #InTheStudio"
+      },
+      "status": "new",
+      "scheduled": "",
+      "selector": "music"
+    },
+    "clips/2026-08-12/030138_beat.mp4": {
+      "name": "030138_beat",
+      "path": "clips/2026-08-12/030138_beat.mp4",
+      "mode": "reframe",
+      "framing_origin": "measured",
+      "cam": [
+        0,
+        0,
+        1280,
+        720
+      ],
+      "daw": null,
+      "start": 10898,
+      "end": 10918,
+      "context_tag": "beat",
+      "score": 7.21,
+      "duration": 20,
+      "excerpt": "Pick a side It's already mine I already got it You thought I was down from taking that L I already forgot it I'm back in the gym again They calling me him again You wanna compare me to who?...",
+      "bpm": 138.9,
+      "sung_fraction": 0.268,
+      "reason": "instrumental: music score=0.72, ~139 BPM, sustained vocal 26% of segment",
+      "stream_duration": 11326.0586875,
+      "date": "2026-08-12",
+      "source": "",
+      "copy": {
+        "hook": "\"You thought I was down from taking that L\"",
+        "hook_alt": "\"They calling me him again\"",
+        "caption": "\"You thought I was down from taking that L.\" \"They calling me him again.\"\n\n→ DM \"BEATS\" for the kit\n\n#YanchanProduced #Freestyle #Bars #HipHop #InTheStudio"
+      },
+      "status": "new",
+      "scheduled": "",
+      "selector": "music"
+    },
+    "clips/2026-08-09/001647_singing.mp4": {
+      "path": "clips/2026-08-09/001647_singing.mp4",
+      "date": "2026-08-09",
+      "source": "2026-08-09_yanchan-produced-live-performance-tamils-day_0b3a4800.mp4",
+      "start": 1007,
+      "end": 1030,
+      "duration": 23,
+      "context_tag": "singing",
+      "score": 6.59,
+      "mode": "reframe",
+      "excerpt": "This is not real... It's not... it's not... It's not the uh... It's not like...",
+      "bpm": 72.1,
+      "sung_fraction": 0.51,
+      "reason": "singing: music score=0.66, ~72 BPM, sustained vocal 51% of segment",
+      "stream_duration": 5502.976,
+      "copy": {
+        "hook": "\"This is not real\" — the crowd knows it is",
+        "hook_alt": "That moment before the beat drops live",
+        "caption": "\"This is not real.\" Live at Tamil's Day — and it very much is.\n\n→ Full performance live on Kick\n\n#YanchanProduced #TamilMusic #LivePerformance #TamilsDay #Toronto"
+      },
+      "status": "new",
+      "scheduled": "",
+      "selector": "music"
+    },
+    "clips/2026-08-09/004005_beat.mp4": {
+      "path": "clips/2026-08-09/004005_beat.mp4",
+      "date": "2026-08-09",
+      "source": "2026-08-09_yanchan-produced-live-performance-tamils-day_0b3a4800.mp4",
+      "start": 2405,
+      "end": 2435,
+      "duration": 30,
+      "context_tag": "beat",
+      "score": 7.55,
+      "mode": "reframe",
+      "excerpt": "",
+      "bpm": 113.6,
+      "sung_fraction": 0.342,
+      "reason": "instrumental: music score=0.76, ~114 BPM, sustained vocal 34% of segment",
+      "stream_duration": 5502.976,
+      "copy": {
+        "hook": "Thirty seconds of the live set — no words needed",
+        "hook_alt": "The beat speaks for Tamil's Day",
+        "caption": "Thirty seconds of the live set — no words needed.\n\n→ Full performance live on Kick\n\n#YanchanProduced #TamilMusic #LivePerformance #BeatMaker #Toronto"
+      },
+      "status": "new",
+      "scheduled": "",
+      "selector": "music"
+    },
+    "clips/2026-08-09/004958_singing.mp4": {
+      "path": "clips/2026-08-09/004958_singing.mp4",
+      "date": "2026-08-09",
+      "source": "2026-08-09_yanchan-produced-live-performance-tamils-day_0b3a4800.mp4",
+      "start": 2998,
+      "end": 3028,
+      "duration": 30,
+      "context_tag": "singing",
+      "score": 7.65,
+      "mode": "reframe",
+      "excerpt": "",
+      "bpm": 91.5,
+      "sung_fraction": 0.571,
+      "reason": "singing: music score=0.77, ~92 BPM, sustained vocal 57% of segment",
+      "stream_duration": 5502.976,
+      "copy": {
+        "hook": "The vocal run that silenced the room",
+        "hook_alt": "Live vocals, no studio safety net",
+        "caption": "The vocal run that silenced the room. Live — no studio safety net.\n\n→ Full performance live on Kick\n\n#YanchanProduced #TamilMusic #Vocals #LivePerformance #Toronto"
+      },
+      "status": "new",
+      "scheduled": "",
+      "selector": "music"
+    },
+    "clips/2026-08-09/005751_beat.mp4": {
+      "path": "clips/2026-08-09/005751_beat.mp4",
+      "date": "2026-08-09",
+      "source": "2026-08-09_yanchan-produced-live-performance-tamils-day_0b3a4800.mp4",
+      "start": 3471,
+      "end": 3501,
+      "duration": 30,
+      "context_tag": "beat",
+      "score": 8.79,
+      "mode": "reframe",
+      "excerpt": "",
+      "bpm": 81.5,
+      "sung_fraction": 0.294,
+      "reason": "instrumental: music score=0.88, ~82 BPM, sustained vocal 29% of segment",
+      "stream_duration": 5502.976,
+      "copy": {
+        "hook": "The hardest moment of the live set",
+        "hook_alt": "The whole room moved at once",
+        "caption": "The hardest moment of the live set.\n\n→ Full performance live on Kick\n\n#YanchanProduced #TamilMusic #LivePerformance #BeatMaker #TamilsDay"
+      },
+      "status": "new",
+      "scheduled": "",
+      "selector": "music"
+    },
+    "clips/2026-08-09/012008_beat.mp4": {
+      "name": "012008_beat",
+      "path": "clips/2026-08-09/012008_beat.mp4",
+      "mode": "reframe",
+      "framing_origin": "measured",
+      "cam": [
+        0,
+        118,
+        1068,
+        600
+      ],
+      "daw": null,
+      "start": 4808,
+      "end": 4838,
+      "context_tag": "beat",
+      "score": 6.33,
+      "duration": 30,
+      "excerpt": "Thank you for watching.",
+      "bpm": 78.1,
+      "sung_fraction": 0.248,
+      "reason": "instrumental: music score=0.63, ~78 BPM, sustained vocal 24% of segment",
+      "stream_duration": 5502.976,
+      "date": "2026-08-09",
+      "source": "",
+      "copy": {
+        "hook": "\"Thank you for watching\" — end of the set",
+        "hook_alt": "That's how you close a show",
+        "caption": "\"Thank you for watching.\" That's how you close a show.\n\n→ Full performance live on Kick\n\n#YanchanProduced #TamilMusic #LivePerformance #TamilsDay #Toronto"
+      },
+      "status": "new",
+      "scheduled": "",
+      "selector": "music"
+    },
+    "clips/2026-07-31/000220_banter.mp4": {
+      "name": "000220_banter",
+      "path": "clips/2026-07-31/000220_banter.mp4",
+      "mode": "reframe",
+      "framing_origin": "measured",
+      "cam": [
+        0,
+        0,
+        1280,
+        720
+      ],
+      "daw": null,
+      "start": 140,
+      "end": 170,
+      "context_tag": "banter",
+      "score": 5.23,
+      "duration": 30,
+      "excerpt": "Yes, okay, so I'm not gonna be on the chat as much We boys will be balled it All right, let's get faded. We got some of your crews here too. All right. I haven't seen some faces of high...",
+      "bpm": null,
+      "sung_fraction": null,
+      "reason": "banter: word_rate=1.6; turns=0.1; keyword=0.0; spike=0.03",
+      "stream_duration": null,
+      "date": "2026-07-31",
+      "source": "",
+      "copy": {
+        "hook": "\"We boys will be balling it\"",
+        "hook_alt": "Crew reunion energy before the first bucket",
+        "caption": "\"We boys will be balling it.\" Crew reunion before the first bucket.\n\n→ More IRL streams on Kick\n\n#YanchanProduced #IRL #KickStream #Basketball #Toronto"
+      },
+      "status": "new",
+      "scheduled": "",
+      "selector": "speech"
+    },
+    "clips/2026-07-31/001430_moment.mp4": {
+      "name": "001430_moment",
+      "path": "clips/2026-07-31/001430_moment.mp4",
+      "mode": "reframe",
+      "framing_origin": "measured",
+      "cam": [
+        0,
+        0,
+        1280,
+        720
+      ],
+      "daw": null,
+      "start": 870,
+      "end": 900,
+      "context_tag": "moment",
+      "score": 2.721,
+      "duration": 30,
+      "excerpt": "Go! I'm going to see. But I got one basket. I know. I know. Maybe I'll put it here.",
+      "bpm": null,
+      "sung_fraction": null,
+      "reason": "moment: word_rate=0.6; turns=0.2; keyword=0.0; spike=0.03",
+      "stream_duration": null,
+      "date": "2026-07-31",
+      "source": "",
+      "copy": {
+        "hook": "\"I got one basket\" — confidence only",
+        "hook_alt": "The pre-game scouting report nobody asked for",
+        "caption": "\"I got one basket. I know.\" The scouting report nobody asked for.\n\n→ More IRL streams on Kick\n\n#YanchanProduced #IRL #Basketball #Funny #KickStream"
+      },
+      "status": "new",
+      "scheduled": "",
+      "selector": "speech"
+    },
+    "clips/2026-07-31/002415_moment.mp4": {
+      "name": "002415_moment",
+      "path": "clips/2026-07-31/002415_moment.mp4",
+      "mode": "reframe",
+      "framing_origin": "measured",
+      "cam": [
+        0,
+        0,
+        1280,
+        720
+      ],
+      "daw": null,
+      "start": 1455,
+      "end": 1485,
+      "context_tag": "moment",
+      "score": 2.859,
+      "duration": 30,
+      "excerpt": "Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay. Okay.",
+      "bpm": null,
+      "sung_fraction": null,
+      "reason": "moment: word_rate=0.5; turns=0.5; keyword=0.0; spike=0.00",
+      "stream_duration": null,
+      "date": "2026-07-31",
+      "source": "",
+      "copy": {
+        "hook": "\"Okay\" said fifteen times in thirty seconds",
+        "hook_alt": "The chant that took over the court",
+        "caption": "\"Okay. Okay. Okay.\" The chant that took over the court.\n\n→ More IRL streams on Kick\n\n#YanchanProduced #IRL #Funny #KickStream #Basketball"
+      },
+      "status": "new",
+      "scheduled": "",
+      "selector": "speech"
+    },
+    "clips/2026-07-31/002910_reaction.mp4": {
+      "name": "002910_reaction",
+      "path": "clips/2026-07-31/002910_reaction.mp4",
+      "mode": "reframe",
+      "framing_origin": "measured",
+      "cam": [
+        0,
+        0,
+        1280,
+        720
+      ],
+      "daw": null,
+      "start": 1750,
+      "end": 1780,
+      "context_tag": "reaction",
+      "score": 9.437,
+      "duration": 30,
+      "excerpt": "There's no one. This is my be. He's over there. Alright, we out here. What's Chad say? What do you say? Yo KG, yo! Let's get f- You know what that is, bro. You know what fate it is, bro....",
+      "bpm": null,
+      "sung_fraction": null,
+      "reason": "reaction: word_rate=3.1; turns=0.6; keyword=0.2; spike=0.13",
+      "stream_duration": null,
+      "date": "2026-07-31",
+      "source": "",
+      "copy": {
+        "hook": "\"You know what fate it is, bro\"",
+        "hook_alt": "The call-out before tip-off",
+        "caption": "\"You know what fate it is, bro.\" The call-out before tip-off.\n\n→ More IRL streams on Kick\n\n#YanchanProduced #IRL #Basketball #Reaction #Toronto"
+      },
+      "status": "new",
+      "scheduled": "",
+      "selector": "speech"
+    },
+    "clips/2026-07-31/003000_fasttalk.mp4": {
+      "name": "003000_fasttalk",
+      "path": "clips/2026-07-31/003000_fasttalk.mp4",
+      "mode": "reframe",
+      "framing_origin": "measured",
+      "cam": [
+        0,
+        0,
+        1280,
+        720
+      ],
+      "daw": null,
+      "start": 1800,
+      "end": 1830,
+      "context_tag": "fasttalk",
+      "score": 7.33,
+      "duration": 30,
+      "excerpt": "You're here? I don't think so. We just played man. We just have fun. Weather like this in a long time. That's the game phase. I'm waiting for half-quad. Half-quad? Oh shit. You have to do one half-quad shot. I...",
+      "bpm": null,
+      "sung_fraction": null,
+      "reason": "fasttalk: word_rate=2.6; turns=0.3; keyword=0.0; spike=0.03",
+      "stream_duration": null,
+      "date": "2026-07-31",
+      "source": "",
+      "copy": {
+        "hook": "\"You have to do one half-quad shot\"",
+        "hook_alt": "The house rule that decides everything",
+        "caption": "\"You have to do one half-quad shot.\" The house rule that decides everything.\n\n→ More IRL streams on Kick\n\n#YanchanProduced #IRL #Basketball #KickStream #Funny"
+      },
+      "status": "new",
+      "scheduled": "",
+      "selector": "speech"
+    },
+    "clips/2026-07-31/004115_reaction.mp4": {
+      "name": "004115_reaction",
+      "path": "clips/2026-07-31/004115_reaction.mp4",
+      "mode": "reframe",
+      "framing_origin": "measured",
+      "cam": [
+        0,
+        0,
+        1280,
+        720
+      ],
+      "daw": null,
+      "start": 2475,
+      "end": 2505,
+      "context_tag": "reaction",
+      "score": 4.467,
+      "duration": 30,
+      "excerpt": "Alright I'm toast I'm actually toast Alright It's okay It's okay What matters is that you keep trying I like not trying I like not living it off Okay I think I'm getting old",
+      "bpm": null,
+      "sung_fraction": null,
+      "reason": "reaction: word_rate=1.1; turns=0.4; keyword=0.0; spike=0.00",
+      "stream_duration": null,
+      "date": "2026-07-31",
+      "source": "",
+      "copy": {
+        "hook": "\"I'm toast. I'm actually toast\"",
+        "hook_alt": "\"What matters is that you keep trying\"",
+        "caption": "\"I'm toast. I'm actually toast.\" Then: \"What matters is that you keep trying.\"\n\n→ More IRL streams on Kick\n\n#YanchanProduced #IRL #Funny #Relatable #KickStream"
+      },
+      "status": "new",
+      "scheduled": "",
+      "selector": "speech"
+    },
+    "clips/2026-07-31/005315_fasttalk.mp4": {
+      "name": "005315_fasttalk",
+      "path": "clips/2026-07-31/005315_fasttalk.mp4",
+      "mode": "reframe",
+      "framing_origin": "measured",
+      "cam": [
+        0,
+        0,
+        1280,
+        720
+      ],
+      "daw": null,
+      "start": 3195,
+      "end": 3225,
+      "context_tag": "fasttalk",
+      "score": 7.617,
+      "duration": 30,
+      "excerpt": "Skip the card store, skip the envelopes I put awkward handcatch to give those and all I'm like, yeeeeeee, shout out to them to give Yo, see how many shots we got? This is me, oh my god Okay, do...",
+      "bpm": null,
+      "sung_fraction": null,
+      "reason": "fasttalk: word_rate=2.7; turns=0.4; keyword=0.0; spike=0.00",
+      "stream_duration": null,
+      "date": "2026-07-31",
+      "source": "",
+      "copy": {
+        "hook": "\"See how many shots we got?\"",
+        "hook_alt": "Free-throw math gets complicated",
+        "caption": "\"Yo, see how many shots we got?\" Free-throw math gets complicated.\n\n→ More IRL streams on Kick\n\n#YanchanProduced #IRL #Basketball #Funny #KickStream"
+      },
+      "status": "new",
+      "scheduled": "",
+      "selector": "speech"
+    },
+    "clips/2026-07-31/005545_moment.mp4": {
+      "name": "005545_moment",
+      "path": "clips/2026-07-31/005545_moment.mp4",
+      "mode": "reframe",
+      "framing_origin": "measured",
+      "cam": [
+        0,
+        0,
+        1280,
+        720
+      ],
+      "daw": null,
+      "start": 3345,
+      "end": 3375,
+      "context_tag": "moment",
+      "score": 6.287,
+      "duration": 30,
+      "excerpt": "I guess we got a little cafeteria type shit Fuck, I really want to go drink, should I get something, yo? How much sugar though? Look at that, look at that 34 grams of sugar? We ain't doing that, we...",
+      "bpm": null,
+      "sung_fraction": null,
+      "reason": "moment: word_rate=1.9; turns=0.3; keyword=0.0; spike=0.13",
+      "stream_duration": null,
+      "date": "2026-07-31",
+      "source": "",
+      "copy": {
+        "hook": "\"34 grams of sugar? We ain't doing that\"",
+        "hook_alt": "The post-game nutrition review",
+        "caption": "\"34 grams of sugar? We ain't doing that.\" The post-game nutrition review.\n\n→ More IRL streams on Kick\n\n#YanchanProduced #IRL #Funny #KickStream #Toronto"
+      },
+      "status": "new",
+      "scheduled": "",
+      "selector": "speech"
+    },
+    "clips/2026-07-31/010440_reaction.mp4": {
+      "name": "010440_reaction",
+      "path": "clips/2026-07-31/010440_reaction.mp4",
+      "mode": "reframe",
+      "framing_origin": "measured",
+      "cam": [
+        0,
+        0,
+        1280,
+        720
+      ],
+      "daw": null,
+      "start": 3880,
+      "end": 3910,
+      "context_tag": "reaction",
+      "score": 5.838,
+      "duration": 30,
+      "excerpt": "Okay people, that's all for today. Okay, thank you for tuning in. I'm gonna try doing more IRL streams so, yeah, let me know what else you want to see. If I go to Caravan, this weekend I might have...",
+      "bpm": null,
+      "sung_fraction": null,
+      "reason": "reaction: word_rate=1.5; turns=0.2; keyword=0.0; spike=0.29",
+      "stream_duration": null,
+      "date": "2026-07-31",
+      "source": "",
+      "copy": {
+        "hook": "\"I'm gonna try doing more IRL streams\"",
+        "hook_alt": "Tell him what IRL content you want next",
+        "caption": "\"I'm gonna try doing more IRL streams — let me know what you want to see.\"\n\n→ More IRL streams on Kick\n\n#YanchanProduced #IRL #KickStream #Streamer #Toronto"
+      },
+      "status": "new",
+      "scheduled": "",
+      "selector": "speech"
+    },
+    "clips/2026-07-29/011211_beat.mp4": {
+      "path": "clips/2026-07-29/011211_beat.mp4",
+      "date": "2026-07-29",
+      "start": 4331.674887,
+      "end": 4440.184472,
+      "duration": 108.50958499999979,
+      "context_tag": "beat",
+      "score": 0,
+      "excerpt": "",
+      "stream_duration": 7079.4026875,
+      "status": "new",
+      "creator": {
+        "start": 4331.674887,
+        "end": 4440.184472,
+        "context_tag": "beat"
+      },
+      "history": [
+        {
+          "field": "created",
+          "from": null,
+          "to": {
+            "start": 4331.674887,
+            "end": 4440.184472
+          }
+        }
+      ],
+      "selector": "music"
+    },
+    "clips/2026-07-29/000806_beat.mp4": {
+      "path": "clips/2026-07-29/000806_beat.mp4",
+      "date": "2026-07-29",
+      "start": 486.171334,
+      "end": 516.168361,
+      "duration": 29.997027000000003,
+      "context_tag": "beat",
+      "score": 0,
+      "excerpt": "",
+      "stream_duration": 7079.4026875,
+      "status": "approved",
+      "creator": {
+        "start": 486.171334,
+        "end": 516.168361,
+        "context_tag": "beat",
+        "framing": {
+          "cam": [
+            725,
+            124,
+            351,
+            238
+          ],
+          "daw": [
+            386,
+            90,
+            227,
+            289
+          ]
+        }
+      },
+      "history": [
+        {
+          "field": "created",
+          "from": null,
+          "to": {
+            "start": 486.171334,
+            "end": 516.168361
+          }
+        },
+        {
+          "field": "context_tag",
+          "from": "beat",
+          "to": "singing"
+        },
+        {
+          "field": "context_tag",
+          "from": "singing",
+          "to": "beat"
+        },
+        {
+          "field": "context_tag",
+          "from": "beat",
+          "to": "singing"
+        },
+        {
+          "field": "context_tag",
+          "from": "singing",
+          "to": "beat"
+        },
+        {
+          "field": "context_tag",
+          "from": "beat",
+          "to": "vocal"
+        },
+        {
+          "field": "context_tag",
+          "from": "vocal",
+          "to": "production"
+        },
+        {
+          "field": "context_tag",
+          "from": "production",
+          "to": "beat"
+        },
+        {
+          "field": "framing",
+          "from": null,
+          "to": {
+            "cam": [
+              730,
+              99,
+              367,
+              257
+            ],
+            "daw": [
+              373,
+              91,
+              250,
+              292
+            ]
+          }
+        },
+        {
+          "field": "framing",
+          "from": {
+            "cam": [
+              730,
+              99,
+              367,
+              257
+            ],
+            "daw": [
+              373,
+              91,
+              250,
+              292
+            ]
+          },
+          "to": {
+            "cam": [
+              725,
+              124,
+              351,
+              238
+            ],
+            "daw": [
+              386,
+              90,
+              227,
+              289
+            ]
+          }
+        }
+      ],
+      "copy": {
+        "hook": "Haria Haria",
+        "caption": ""
+      },
+      "selector": "music"
+    },
+    "clips/2026-08-31/000916_beat.mp4": {
+      "path": "clips/2026-08-31/000916_beat.mp4",
+      "date": "2026-08-31",
+      "source": "2026-08-31_live-session-w-s-a-m-justice-case_777d5fdf.mp4",
+      "start": 556,
+      "end": 585,
+      "duration": 29,
+      "context_tag": "beat",
+      "score": 6.19,
+      "mode": "reframe",
+      "excerpt": "",
+      "bpm": 89.3,
+      "sung_fraction": 0.203,
+      "reason": "instrumental: music score=0.62, ~89 BPM, sustained vocal 20% of segment",
+      "stream_duration": 4341.0346875,
+      "copy": {},
+      "status": "new",
+      "scheduled": "",
+      "creator": {
+        "context_tag": "beat"
+      },
+      "history": [
+        {
+          "field": "context_tag",
+          "from": null,
+          "to": "singing"
+        },
+        {
+          "field": "context_tag",
+          "from": "singing",
+          "to": "roast"
+        },
+        {
+          "field": "context_tag",
+          "from": "roast",
+          "to": "vocal"
+        },
+        {
+          "field": "context_tag",
+          "from": "vocal",
+          "to": "beat"
+        },
+        {
+          "field": "context_tag",
+          "from": "beat",
+          "to": "singing"
+        },
+        {
+          "field": "context_tag",
+          "from": "singing",
+          "to": "beat"
+        }
+      ]
+    },
+    "clips/2026-08-31/005820_beat.mp4": {
+      "path": "clips/2026-08-31/005820_beat.mp4",
+      "date": "2026-08-31",
+      "source": "2026-08-31_live-session-w-s-a-m-justice-case_777d5fdf.mp4",
+      "start": 3500,
+      "end": 3530,
+      "duration": 30,
+      "context_tag": "beat",
+      "score": 7.53,
+      "mode": "reframe",
+      "excerpt": "",
+      "bpm": 96.2,
+      "sung_fraction": 0.245,
+      "reason": "instrumental: music score=0.75, ~96 BPM, sustained vocal 24% of segment",
+      "stream_duration": 4341.0346875,
+      "copy": {},
+      "status": "new",
+      "scheduled": ""
+    },
+    "clips/2026-08-26/000938_beat.mp4": {
+      "path": "clips/2026-08-26/000938_beat.mp4",
+      "date": "2026-08-26",
+      "source": "2026-08-26_live-session-w-s-a-m-justice-case_2eb1db41.mp4",
+      "start": 578,
+      "end": 608,
+      "duration": 30,
+      "context_tag": "beat",
+      "score": 7.75,
+      "mode": "reframe",
+      "excerpt": "I got plenty I've done this before It's like Cyphers for you I got plenty I've done this before Baby girl like you just don't care Oh, girl, I'm gonna work for me, baby I...",
+      "bpm": 123,
+      "sung_fraction": 0.384,
+      "reason": "instrumental: music score=0.78, ~123 BPM, sustained vocal 38% of segment",
+      "stream_duration": 7388.0746875,
+      "copy": {},
+      "status": "new",
+      "scheduled": ""
+    },
+    "clips/2026-08-26/001949_beat.mp4": {
+      "path": "clips/2026-08-26/001949_beat.mp4",
+      "date": "2026-08-26",
+      "source": "2026-08-26_live-session-w-s-a-m-justice-case_2eb1db41.mp4",
+      "start": 1189,
+      "end": 1214,
+      "duration": 25,
+      "context_tag": "beat",
+      "score": 8.01,
+      "mode": "reframe",
+      "excerpt": "All right. You call me on the telephone, oh, baby. And tell me you're calling home, all right. Sam, pull out, bro. Do you have a stem split in Ableton now? No, but I don't...",
+      "bpm": 81.5,
+      "sung_fraction": 0.358,
+      "reason": "instrumental: music score=0.80, ~82 BPM, sustained vocal 35% of segment",
+      "stream_duration": 7388.0746875,
+      "copy": {},
+      "status": "new",
+      "scheduled": ""
+    },
+    "clips/2026-08-26/005019_beat.mp4": {
+      "path": "clips/2026-08-26/005019_beat.mp4",
+      "date": "2026-08-26",
+      "source": "2026-08-26_live-session-w-s-a-m-justice-case_2eb1db41.mp4",
+      "start": 3019,
+      "end": 3049,
+      "duration": 30,
+      "context_tag": "beat",
+      "score": 8.17,
+      "mode": "split",
+      "excerpt": "I'm in love with Bala, with Bala I'm in this island and I miss you I'm in love with Bala, with Bala I'm in this island and I miss you I'm in this island and...",
+      "bpm": 113.6,
+      "sung_fraction": 0.155,
+      "reason": "instrumental: music score=0.82, ~114 BPM, sustained vocal 15% of segment",
+      "stream_duration": 7388.0746875,
+      "copy": {},
+      "status": "new",
+      "scheduled": ""
+    },
+    "clips/2026-08-26/010124_beat.mp4": {
+      "path": "clips/2026-08-26/010124_beat.mp4",
+      "date": "2026-08-26",
+      "source": "2026-08-26_live-session-w-s-a-m-justice-case_2eb1db41.mp4",
+      "start": 3684,
+      "end": 3707,
+      "duration": 23,
+      "context_tag": "beat",
+      "score": 7.63,
+      "mode": "split",
+      "excerpt": "Think I'm You I know they're good. I just recognize how prideful that is.",
+      "bpm": 133.9,
+      "sung_fraction": 0.219,
+      "reason": "instrumental: music score=0.76, ~134 BPM, sustained vocal 21% of segment",
+      "stream_duration": 7388.0746875,
+      "copy": {},
+      "status": "new",
+      "scheduled": ""
+    },
+    "clips/2026-08-26/011043_singing.mp4": {
+      "path": "clips/2026-08-26/011043_singing.mp4",
+      "date": "2026-08-26",
+      "source": "2026-08-26_live-session-w-s-a-m-justice-case_2eb1db41.mp4",
+      "start": 4243,
+      "end": 4273,
+      "duration": 30,
+      "context_tag": "singing",
+      "score": 7.38,
+      "mode": "split",
+      "excerpt": "Got me in the yoga. I want to know You know what you started and what I'm feeling I love my life so tell you what it felt I can't find out you, what am...",
+      "bpm": 113.6,
+      "sung_fraction": 0.503,
+      "reason": "singing: music score=0.74, ~114 BPM, sustained vocal 50% of segment",
+      "stream_duration": 7388.0746875,
+      "copy": {},
+      "status": "new",
+      "scheduled": ""
+    },
+    "clips/2026-08-26/012014_singing.mp4": {
+      "path": "clips/2026-08-26/012014_singing.mp4",
+      "date": "2026-08-26",
+      "source": "2026-08-26_live-session-w-s-a-m-justice-case_2eb1db41.mp4",
+      "start": 4814,
+      "end": 4844,
+      "duration": 30,
+      "context_tag": "singing",
+      "score": 7.47,
+      "mode": "split",
+      "excerpt": "I can't find the view, what am I gonna do? I can't find the entity",
+      "bpm": 113.6,
+      "sung_fraction": 0.571,
+      "reason": "singing: music score=0.75, ~114 BPM, sustained vocal 57% of segment",
+      "stream_duration": 7388.0746875,
+      "copy": {},
+      "status": "new",
+      "scheduled": ""
+    },
+    "clips/2026-08-26/012752_beat.mp4": {
+      "path": "clips/2026-08-26/012752_beat.mp4",
+      "date": "2026-08-26",
+      "source": "2026-08-26_live-session-w-s-a-m-justice-case_2eb1db41.mp4",
+      "start": 5272,
+      "end": 5299,
+      "duration": 27,
+      "context_tag": "beat",
+      "score": 7.17,
+      "mode": "split",
+      "excerpt": "Yeah I want to know, you know what you started, I want to draw You know you're the baddest, I'm falling out When you turn around, ain't nothing else I cannot confuse you with anyone,...",
+      "bpm": 113.6,
+      "sung_fraction": 0.384,
+      "reason": "instrumental: music score=0.72, ~114 BPM, sustained vocal 38% of segment",
+      "stream_duration": 7388.0746875,
+      "copy": {},
+      "status": "new",
+      "scheduled": ""
+    },
+    "clips/2026-08-26/013233_beat.mp4": {
+      "path": "clips/2026-08-26/013233_beat.mp4",
+      "date": "2026-08-26",
+      "source": "2026-08-26_live-session-w-s-a-m-justice-case_2eb1db41.mp4",
+      "start": 5553,
+      "end": 5576,
+      "duration": 23,
+      "context_tag": "beat",
+      "score": 6.98,
+      "mode": "split",
+      "excerpt": "Yeah, yeah, I want to know Start to, I want to drop You know you're the baddest, I'm falling out Runnin' another yo Fuse you with anyone",
+      "bpm": 113.6,
+      "sung_fraction": 0.387,
+      "reason": "instrumental: music score=0.70, ~114 BPM, sustained vocal 38% of segment",
+      "stream_duration": 7388.0746875,
+      "copy": {},
+      "status": "new",
+      "scheduled": ""
+    },
+    "clips/2026-08-26/014829_beat.mp4": {
+      "path": "clips/2026-08-26/014829_beat.mp4",
+      "date": "2026-08-26",
+      "source": "2026-08-26_live-session-w-s-a-m-justice-case_2eb1db41.mp4",
+      "start": 6509,
+      "end": 6534,
+      "duration": 25,
+      "context_tag": "beat",
+      "score": 7.44,
+      "mode": "reframe",
+      "excerpt": "I can't wait to be in touch, alrighty I can't wait to be in touch, alrighty Tell me how that sounds like, something like 8 times more rather than sample, so it's too expensive After...",
+      "bpm": 133.9,
+      "sung_fraction": 0.281,
+      "reason": "instrumental: music score=0.74, ~134 BPM, sustained vocal 28% of segment",
+      "stream_duration": 7388.0746875,
+      "copy": {},
+      "status": "new",
+      "scheduled": ""
+    },
+    "clips/2026-08-26/015801_beat.mp4": {
+      "path": "clips/2026-08-26/015801_beat.mp4",
+      "date": "2026-08-26",
+      "source": "2026-08-26_live-session-w-s-a-m-justice-case_2eb1db41.mp4",
+      "start": 7081,
+      "end": 7111,
+      "duration": 30,
+      "context_tag": "beat",
+      "score": 7.54,
+      "mode": "reframe",
+      "excerpt": "I can wake up at morning cold I can wake up at morning cold Coming to me I got I want to know You know what you started I want to drop",
+      "bpm": 133.9,
+      "sung_fraction": 0.205,
+      "reason": "instrumental: music score=0.75, ~134 BPM, sustained vocal 20% of segment",
+      "stream_duration": 7388.0746875,
+      "copy": {},
+      "status": "new",
+      "scheduled": ""
+    },
+    "clips/2026-08-25/005342_beat.mp4": {
+      "path": "clips/2026-08-25/005342_beat.mp4",
+      "date": "2026-08-25",
+      "source": "2026-08-25_live-session-w-s-a-m-justice-case_493946da.mp4",
+      "start": 3222,
+      "end": 3252,
+      "duration": 30,
+      "context_tag": "beat",
+      "score": 6.64,
+      "mode": "reframe",
+      "excerpt": "She also Sampu, the skilly-bangs, tipsy. Oh, sick. I don't know about her. You were on stage, I think. Yeah. We were in the on-side. Why do you say it like that? I can't win...",
+      "bpm": 98.7,
+      "sung_fraction": 0.223,
+      "reason": "instrumental: music score=0.66, ~99 BPM, sustained vocal 22% of segment",
+      "stream_duration": 6211.008,
+      "copy": {},
+      "status": "new",
+      "scheduled": ""
+    },
+    "clips/2026-08-25/010248_beat.mp4": {
+      "path": "clips/2026-08-25/010248_beat.mp4",
+      "date": "2026-08-25",
+      "source": "2026-08-25_live-session-w-s-a-m-justice-case_493946da.mp4",
+      "start": 3768,
+      "end": 3798,
+      "duration": 30,
+      "context_tag": "beat",
+      "score": 7.16,
+      "mode": "reframe",
+      "excerpt": "You know the one. You were like that's not hot. It's not hot man. Oh my goodness. Hello. This one. Right there. Woo. Why that guy? What's the spice level? Too much for him? Yeah....",
+      "bpm": 98.7,
+      "sung_fraction": 0.152,
+      "reason": "instrumental: music score=0.72, ~99 BPM, sustained vocal 15% of segment",
+      "stream_duration": 6211.008,
+      "copy": {},
+      "status": "new",
+      "scheduled": ""
+    },
+    "clips/2026-08-25/013619_beat.mp4": {
+      "path": "clips/2026-08-25/013619_beat.mp4",
+      "date": "2026-08-25",
+      "source": "2026-08-25_live-session-w-s-a-m-justice-case_493946da.mp4",
+      "start": 5779,
+      "end": 5799,
+      "duration": 20,
+      "context_tag": "beat",
+      "score": 6.56,
+      "mode": "reframe",
+      "excerpt": "",
+      "bpm": 93.8,
+      "sung_fraction": 0.14,
+      "reason": "instrumental: music score=0.66, ~94 BPM, sustained vocal 14% of segment",
+      "stream_duration": 6211.008,
+      "copy": {},
+      "status": "new",
+      "scheduled": ""
+    }
+  },
+  "batches": {
+    "2026-07-03": {
+      "count": 10,
+      "target_length": 30,
+      "min_duration": 20,
+      "spacing": 240,
+      "kind": "any",
+      "sung_weight": 0.3,
+      "skip_head": 120,
+      "skip_tail": 90,
+      "layout": "any",
+      "selected": 8,
+      "asked": 10,
+      "limited_by": "spacing",
+      "work_dir": "tools/clip-pipeline/work/yanchanproduced-live-session-w-tresor-20260703-2bf7ec67-cb93",
+      "source": "YanchanProduced_Live Session w⧸ Tresor_20260703_2bf7ec67-cb93-497d-a868-9ea5c85153b0.mp4",
+      "calibration": "tools/clip-pipeline/work/yanchanproduced-live-session-w-tresor-20260703-2bf7ec67-cb93/calibration.json",
+      "stream_duration": 9842.1333125
+    },
+    "2026-06-26": {
+      "work_dir": "tools/clip-pipeline/work/yanchanproduced-just-20chatting-2026-06-26-720p30",
+      "source": "YanchanProduced_Just%20Chatting_2026-06-26_720p30.mp4",
+      "calibration": "tools/clip-pipeline/work/yanchanproduced-just-20chatting-2026-06-26-720p30/calibration.json",
+      "stream_duration": 9741.888
+    },
+    "2026-07-08": {
+      "work_dir": "tools/clip-pipeline/work/yanchanproduced-live-20session-20w-20kiki-20rowe-2026-07-08-",
+      "source": "YanchanProduced_Live%20Session%20w%20Kiki%20Rowe_2026-07-08_720p30.mp4",
+      "calibration": "tools/clip-pipeline/work/yanchanproduced-live-20session-20w-20kiki-20rowe-2026-07-08-/calibration.json",
+      "stream_duration": 10888.4906875
+    },
+    "2026-08-12": {
+      "work_dir": "tools/clip-pipeline/work/2026-08-12-live-session-w-rochester-547f804a",
+      "source": "streams/2026-08-12_live-session-w-rochester_547f804a.mp4",
+      "calibration": "tools/clip-pipeline/work/2026-08-12-live-session-w-rochester-547f804a/calibration.json",
+      "stream_duration": 11326.0586875,
+      "count": 10,
+      "target_length": 30,
+      "min_duration": 20,
+      "spacing": 240,
+      "kind": "any",
+      "sung_weight": 0.3,
+      "skip_head": 120,
+      "skip_tail": 90,
+      "layout": "any",
+      "selected": 10,
+      "asked": 10,
+      "limited_by": null,
+      "mirror": false
+    },
+    "2026-07-22": {
+      "work_dir": "tools/clip-pipeline/work/2026-07-22-live-session-w-muthoni",
+      "source": "streams/2026-07-22_live-session-w-muthoni.mp4",
+      "calibration": "tools/clip-pipeline/work/2026-07-22-live-session-w-muthoni/calibration.json",
+      "stream_duration": 10791.0186875,
+      "count": 10,
+      "target_length": 30,
+      "min_duration": 20,
+      "spacing": 240,
+      "kind": "any",
+      "sung_weight": 0.3,
+      "skip_head": 120,
+      "skip_tail": 90,
+      "layout": "any",
+      "selected": 10,
+      "asked": 10,
+      "limited_by": null
+    },
+    "2026-07-29": {
+      "count": 10,
+      "target_length": 30,
+      "min_duration": 20,
+      "spacing": 240,
+      "kind": "any",
+      "sung_weight": 0.3,
+      "skip_head": 120,
+      "skip_tail": 90,
+      "layout": "any",
+      "selected": 6,
+      "asked": 10,
+      "limited_by": "spacing",
+      "work_dir": "tools/clip-pipeline/work/2026-07-29-live-session-w-muthoni",
+      "source": "streams/2026-07-29_live-session-w-muthoni.mp4",
+      "calibration": "tools/clip-pipeline/work/2026-07-29-live-session-w-muthoni/calibration.json",
+      "stream_duration": 7079.4026875,
+      "mirror": false
+    },
+    "2026-08-09": {
+      "count": 4,
+      "target_length": 30,
+      "min_duration": 20,
+      "spacing": 240,
+      "kind": "any",
+      "sung_weight": 0.3,
+      "skip_head": 120,
+      "skip_tail": 90,
+      "layout": "any",
+      "selected": 4,
+      "asked": 4,
+      "limited_by": null,
+      "work_dir": "tools/clip-pipeline/work/2026-08-09-yanchan-produced-live-performance-tamils-day-0b3a",
+      "source": "streams/2026-08-09_yanchan-produced-live-performance-tamils-day_0b3a4800.mp4",
+      "calibration": "tools/clip-pipeline/work/2026-08-09-yanchan-produced-live-performance-tamils-day-0b3a/calibration.json",
+      "stream_duration": 5502.976
+    },
+    "2026-07-31": {
+      "work_dir": "tools/clip-pipeline/work/2026-07-31-yanchan-produced-playing-ball-3eabf4f0",
+      "source": "streams/2026-07-31_yanchan-produced-playing-ball_3eabf4f0.mp4",
+      "calibration": "tools/clip-pipeline/work/2026-07-31-yanchan-produced-playing-ball-3eabf4f0/calibration.json",
+      "stream_duration": null
+    },
+    "2026-08-31": {
+      "work_dir": "tools/clip-pipeline/work/2026-08-31-live-session-w-s-a-m-justice-case-777d5fdf",
+      "source": "streams/2026-08-31_live-session-w-s-a-m-justice-case_777d5fdf.mp4",
+      "calibration": "tools/clip-pipeline/work/2026-08-31-live-session-w-s-a-m-justice-case-777d5fdf/calibration.json",
+      "stream_duration": 4341.0346875,
+      "count": 10,
+      "target_length": 30,
+      "min_duration": 20,
+      "spacing": 240,
+      "kind": "any",
+      "sung_weight": 0.3,
+      "skip_head": 120,
+      "skip_tail": 90,
+      "layout": "any",
+      "selected": 2,
+      "asked": 10,
+      "limited_by": "spacing",
+      "mirror": false
+    },
+    "2026-08-26": {
+      "work_dir": "tools/clip-pipeline/work/2026-08-26-live-session-w-s-a-m-justice-case-2eb1db41",
+      "source": "streams/2026-08-26_live-session-w-s-a-m-justice-case_2eb1db41.mp4",
+      "calibration": "tools/clip-pipeline/work/2026-08-26-live-session-w-s-a-m-justice-case-2eb1db41/calibration.json",
+      "stream_duration": 7388.0746875,
+      "count": 10,
+      "target_length": 30,
+      "min_duration": 20,
+      "spacing": 240,
+      "kind": "any",
+      "sung_weight": 0.3,
+      "skip_head": 120,
+      "skip_tail": 90,
+      "layout": "any",
+      "selected": 10,
+      "asked": 10,
+      "limited_by": null
+    },
+    "2026-08-25": {
+      "work_dir": "tools/clip-pipeline/work/2026-08-25-live-session-w-s-a-m-justice-case-493946da",
+      "source": "streams/2026-08-25_live-session-w-s-a-m-justice-case_493946da.mp4",
+      "calibration": "tools/clip-pipeline/work/2026-08-25-live-session-w-s-a-m-justice-case-493946da/calibration.json",
+      "stream_duration": 6211.008,
+      "count": 10,
+      "target_length": 30,
+      "min_duration": 20,
+      "spacing": 240,
+      "kind": "any",
+      "sung_weight": 0.3,
+      "skip_head": 120,
+      "skip_tail": 90,
+      "layout": "any",
+      "selected": 3,
+      "asked": 10,
+      "limited_by": "supply"
+    }
+  }
+}

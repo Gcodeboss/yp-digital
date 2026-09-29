@@ -1,0 +1,38 @@
+{
+  "source": "/Users/gbase/work/personal/yanchan/streams/2026-08-12_live-session-w-rochester_547f804a.mp4",
+  "frame": {
+    "width": 1280,
+    "height": 720
+  },
+  "webcam_layouts": [
+    {
+      "x": 726,
+      "h": 330,
+      "y": 0,
+      "w": 554,
+      "count": 23
+    },
+    {
+      "x": 766,
+      "h": 303,
+      "y": 0,
+      "w": 513,
+      "count": 8
+    }
+  ],
+  "webcam_default": {
+    "x": 726,
+    "y": 0,
+    "w": 554,
+    "h": 330
+  },
+  "arrangement_left": 388,
+  "daw_top": 43,
+  "daw_bottom": 529,
+  "samples": {
+    "daw_frames": 36,
+    "fullcam_frames": 24,
+    "accepted": 31,
+    "rejected": {}
+  }
+}

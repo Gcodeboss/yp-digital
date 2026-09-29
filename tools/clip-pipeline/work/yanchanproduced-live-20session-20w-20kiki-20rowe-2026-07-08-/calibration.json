@@ -1,0 +1,47 @@
+{
+  "source": "/Users/gbase/yanchan/YanchanProduced_Live%20Session%20w%20Kiki%20Rowe_2026-07-08_720p30.mp4",
+  "frame": {
+    "width": 1280,
+    "height": 720
+  },
+  "webcam_layouts": [
+    {
+      "x": 703,
+      "h": 329,
+      "y": 0,
+      "w": 577,
+      "count": 16
+    },
+    {
+      "x": 786,
+      "h": 281,
+      "y": 0,
+      "w": 494,
+      "count": 12
+    },
+    {
+      "x": 702,
+      "h": 368,
+      "y": 0,
+      "w": 578,
+      "count": 1
+    }
+  ],
+  "webcam_default": {
+    "x": 703,
+    "y": 0,
+    "w": 577,
+    "h": 329
+  },
+  "arrangement_left": 420,
+  "daw_top": 43,
+  "daw_bottom": 529,
+  "samples": {
+    "daw_frames": 38,
+    "fullcam_frames": 22,
+    "accepted": 29,
+    "rejected": {
+      "no-edge": 4
+    }
+  }
+}

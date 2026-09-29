@@ -1,0 +1,61 @@
+{
+  "source": "/Users/gbase/yanchan/YanchanProduced_Live Session w\u29f8 Tresor_20260703_2bf7ec67-cb93-497d-a868-9ea5c85153b0.mp4",
+  "frame": {
+    "width": 1280,
+    "height": 720
+  },
+  "webcam_layouts": [
+    {
+      "x": 818,
+      "h": 287,
+      "y": 0,
+      "w": 462,
+      "count": 10
+    },
+    {
+      "x": 747,
+      "h": 345,
+      "y": 0,
+      "w": 532,
+      "count": 8
+    },
+    {
+      "x": 715,
+      "h": 335,
+      "y": 0,
+      "w": 565,
+      "count": 5
+    },
+    {
+      "x": 689,
+      "h": 335,
+      "y": 0,
+      "w": 590,
+      "count": 2
+    },
+    {
+      "x": 715,
+      "h": 287,
+      "y": 0,
+      "w": 565,
+      "count": 1
+    }
+  ],
+  "webcam_default": {
+    "x": 818,
+    "y": 0,
+    "w": 462,
+    "h": 287
+  },
+  "arrangement_left": 385,
+  "daw_top": 43,
+  "daw_bottom": 529,
+  "samples": {
+    "daw_frames": 34,
+    "fullcam_frames": 26,
+    "accepted": 26,
+    "rejected": {
+      "aspect": 3
+    }
+  }
+}

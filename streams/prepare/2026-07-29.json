@@ -1,0 +1,9 @@
+{
+  "running": false,
+  "step": "ready",
+  "error": null,
+  "done": true,
+  "work_dir": "tools/clip-pipeline/work/2026-07-29-live-session-w-muthoni",
+  "source": "streams/2026-07-29_live-session-w-muthoni.mp4",
+  "updated_at": 1788747860.225674
+}
